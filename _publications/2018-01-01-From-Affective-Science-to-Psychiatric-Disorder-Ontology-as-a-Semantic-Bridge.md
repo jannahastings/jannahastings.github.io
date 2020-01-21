@@ -6,4 +6,4 @@ date: 2018-01-01
 venue: 'Frontiers in psychiatry'
 citation: ' Rasmus Larsen,  Janna Hastings, &quot;From Affective Science to Psychiatric Disorder: Ontology as a Semantic Bridge..&quot; Frontiers in psychiatry, 2018.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=From+Affective+Science+to+Psychiatric+Disorder:+Ontology+as+a+Semantic+Bridge.){:target="_blank"} for full citation
+Access article via [Google Scholar](https://scholar.google.com/scholar?q=From+Affective+Science+to+Psychiatric+Disorder:+Ontology+as+a+Semantic+Bridge.){:target="_blank"}

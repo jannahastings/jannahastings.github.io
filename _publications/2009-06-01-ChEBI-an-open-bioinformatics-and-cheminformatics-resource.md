@@ -6,4 +6,4 @@ date: 2009-06-01
 venue: 'Current protocols in bioinformatics'
 citation: ' Kirill Degtyarenko,  Janna Hastings,  Paula Matos,  Marcus Ennis, &quot;ChEBI: an open bioinformatics and cheminformatics resource..&quot; Current protocols in bioinformatics, 2009.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=ChEBI:+an+open+bioinformatics+and+cheminformatics+resource.){:target="_blank"} for full citation
+Access article via [Google Scholar](https://scholar.google.com/scholar?q=ChEBI:+an+open+bioinformatics+and+cheminformatics+resource.){:target="_blank"}

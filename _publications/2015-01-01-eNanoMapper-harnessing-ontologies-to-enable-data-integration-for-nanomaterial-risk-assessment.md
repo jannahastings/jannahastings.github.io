@@ -6,4 +6,4 @@ date: 2015-01-01
 venue: 'Journal of biomedical semantics'
 citation: ' Janna Hastings,  Nina Jeliazkova,  Gareth Owen,  Georgia Tsiliki,  Cristian Munteanu,  Christoph Steinbeck,  Egon Willighagen, &quot;eNanoMapper: harnessing ontologies to enable data integration for nanomaterial risk assessment..&quot; Journal of biomedical semantics, 2015.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=eNanoMapper:+harnessing+ontologies+to+enable+data+integration+for+nanomaterial+risk+assessment.){:target="_blank"} for full citation
+Access article via [Google Scholar](https://scholar.google.com/scholar?q=eNanoMapper:+harnessing+ontologies+to+enable+data+integration+for+nanomaterial+risk+assessment.){:target="_blank"}

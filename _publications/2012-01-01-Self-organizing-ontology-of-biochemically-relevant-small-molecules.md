@@ -6,4 +6,4 @@ date: 2012-01-01
 venue: 'BMC bioinformatics'
 citation: ' Leonid Chepelev,  Janna Hastings,  Marcus Ennis,  Christoph Steinbeck,  Michel Dumontier, &quot;Self-organizing ontology of biochemically relevant small molecules..&quot; BMC bioinformatics, 2012.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Self+organizing+ontology+of+biochemically+relevant+small+molecules.){:target="_blank"} for full citation
+Access article via [Google Scholar](https://scholar.google.com/scholar?q=Self+organizing+ontology+of+biochemically+relevant+small+molecules.){:target="_blank"}
