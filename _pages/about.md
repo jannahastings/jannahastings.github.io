@@ -1,3 +1,16 @@
+---
+permalink: /
+title: "Janna Hastings"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am a computer scientist interested in the use of intelligent computational systems to advance research and achieve tangible progress across the diversity of the biological and social sciences and for the digital humanities. 
+
+
 Projects
 ======
 
@@ -5,7 +18,7 @@ Projects
 Ontologies
 ====
 
-Ontologies are structured logic-based representations of domain knowledge that drive intelligent applications. 
+Ontologies are structured logic-based representations of domain knowledge that drive intelligent applications. They serve to structure and exchange what is known, to build intelligent knowledge bases, and as inputs to data science algorithms that combine knowledge and data to derive inferences. 
 
 I am involved in ontology projects for research in the social and behavioural sciences, including [behaviour change](https://www.humanbehaviourchange.org/) and [addiction](https://github.com/jannahastings/addiction-ontology).
 
