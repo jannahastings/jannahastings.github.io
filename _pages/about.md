@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Janna Hastings"
+title: "Home Page of Janna Hastings"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer scientist interested in the use of intelligent computational systems to advance research and achieve tangible progress across the diversity of the biological and social sciences and for the digital humanities. 
+I am a computer scientist interested in developing intelligent computational systems to advance research across the biological and social sciences and the digital humanities. I am interested in the frontier between data science, i.e. algorithms for deriving inferences and predictions based on structured and unstructured data, and _knowledge_ science, i.e. research that amasses, integrates and harnesses what we already know in novel discoveries towards a genuinely cumulative knowledge building.  
+
+To this end I have actively contributed both to research in computational knowledge representation and reasoning, community-wide knowledge integration for a given field via building standards and databases, and . I have applied these interests across a range of domains including bioinformatics, cheminformatics, psychology and the social and behavioural sciences, and digital humanities. Some of the projects that I am involved in are described further below. 
 
 
 Projects
 ======
 
 
-Ontologies
-====
+### Ontologies
 
 Ontologies are structured logic-based representations of domain knowledge that drive intelligent applications. They serve to structure and exchange what is known, to build intelligent knowledge bases, and as inputs to data science algorithms that combine knowledge and data to derive inferences. 
 
@@ -28,8 +29,7 @@ I currently develop the [Mental Functioning](https://github.com/jannahastings/me
 
 Historically, I was involved in the development of the ChEBI chemical ontology, the CHEMINF ontology of chemical information entities, the eNanoMapper ontology for nanomaterials, and the Basic Formal Ontology. 
 
-Computational Biology
-====
+### Computational Biology
 
 Multi-omics data analysis (transcriptomics, metabolomics)
 
@@ -37,14 +37,13 @@ Metabolic modelling, flux balance analysis
 
 I contributed to the development of the WormJam model of C. elegans metabolism
 
-Cheminformatics
-====
+### Cheminformatics
+
 
 Chemical structure-based classification
 
 
-Data Science
-====
+### Data Science
 
 
 
