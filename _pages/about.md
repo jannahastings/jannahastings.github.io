@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer scientist interested in developing intelligent computational systems to advance research across the biological and social sciences and the digital humanities. I am particularly interested in the interface between data science, i.e. algorithms for deriving inferences and predictions based on structured and unstructured data, and _knowledge_ science, i.e. research that amasses, integrates and harnesses what we already know and channels that back towards efforts to make novel discoveries, towards a genuinely cumulative discovery frontier.  
+I am a computer scientist interested in developing intelligent computational systems to advance research across the biological and social sciences. I am particularly interested in the interface between data science, i.e. algorithms for deriving inferences and predictions based on structured and unstructured data, and _knowledge_ science, i.e. research that amasses, integrates and harnesses what we already know and channels that back towards efforts to make novel discoveries, towards a genuinely cumulative discovery frontier.  
 
 To this end I have actively contributed both to research in computational knowledge representation and reasoning, community-wide knowledge integration across a variety of specific fields via building standards and databases, and primary research using computational (mathematical and statistical) approaches. I have applied these interests across a range of domains including bioinformatics, cheminformatics, psychology and the social and behavioural sciences, and digital humanities. Some of the projects that I am involved in are described further below. 
 
