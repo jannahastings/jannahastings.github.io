@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jannahastings.github.io/sitemap.xml
+Sitemap: hastingslab.org/sitemap.xml
