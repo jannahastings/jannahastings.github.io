@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: hastingslab.org/sitemap.xml
+Sitemap: https://hastingslab.org/sitemap.xml
