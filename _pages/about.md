@@ -9,8 +9,8 @@ profile:
   image: overall-pic-light.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Centre du Parc, Rue Marconi 19</p>
-    <p>CH - 1920 Martigny, Switzerland</p>
+    <p>Centre du Parc, <br/>Rue Marconi 19</p>
+    <p>CH - 1920 Martigny, <br/>Switzerland</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,7 +21,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -34,4 +34,4 @@ Our research group develops and applies artificial intelligence approaches to ad
 
 **AI for Humans in Society** investigates how modern generative AI approaches can support mental health and wellbeing, as well as the potential health risks and societal challenges that these systems might give rise to. This research examines both the opportunities and risks of deploying AI in sensitive human contexts, ensuring these technologies serve genuine human needs, and addresses how models can be improved or designed for safety and trustworthiness.
 
-![Idiap Research Institute](idiap-logo.png "Idiap Research Institute")
+![Idiap Research Institute](img/idiap-logo.png "Idiap Research Institute")
