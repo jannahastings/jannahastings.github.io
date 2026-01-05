@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='idiap.ch'>Idiap Research Institute</a>, Martigny, Switzerland
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: overall-pic-light.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Centre du Parc, Rue Marconi 19</p>
+    <p>CH - 1920 Martigny, Switzerland</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Our research group develops and applies artificial intelligence approaches to advance health, spanning the molecular, individual and societal scales. Our research has three main focus areas: _AI for Biomolecules_, _AI for Evidence_, and _AI for Humans in Society_. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**AI for Biomolecules**: We develop AI approaches to understand and predict the behaviour of biological molecules, with a particular focus on small molecule metabolites and RNA. We develop and advance methods for injecting biological knowledge into molecular language models and innovate methods for interpretability and biomedical discovery based on such models. We also advance methods for using omics-data together with systems-level modelling approaches such as genome-scale models, and innovate hybrid approaches that combine data-driven with mechanistic models. Current projects within this research area include StrOntEx, MetaboLinkAI and AI4RNA. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**AI for Evidence**: We develop AI approaches to automatically track, process, and synthesise evidence about health at scale. We aim to advance the reproducible and robust application of AI approaches in evidence synthesis and decision-making, including approaches to track evidence evolution over time, screening evidence for relevance to specific research questions, data extraction from published papers, and the automation of statistical and narrative syntheses.  Current projects within this research area include GALENOS. 
+
+**AI for Humans in Society** investigates how modern generative AI approaches can support mental health and wellbeing, as well as the potential health risks and societal challenges that these systems might give rise to. This research examines both the opportunities and risks of deploying AI in sensitive human contexts, ensuring these technologies serve genuine human needs, and addresses how models can be improved or designed for safety and trustworthiness.
+
+![Idiap Research Institute](idiap-logo.png "Idiap Research Institute")
