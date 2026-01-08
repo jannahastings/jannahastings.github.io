@@ -7,22 +7,63 @@ nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+
+# Group Members
+
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: janna-pic.jpg
+    content: about_janna.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Office 302</p>
+      <p>Rue Marconi 19</p>
+      <p>Martigny, Switzerland</p>
+      
+  - align: right
+    image: lotti-pic.jpg
+    content: about_lotti.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Office 306</p>
+      <p>Rue Marconi 19</p>
+      <p>Martigny, Switzerland</p>
+
+  - align: left
+    image: miranda-pic.jpg
+    content: about_miranda.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Office 306</p>
+      <p>Rue Marconi 19</p>
+      <p>Martigny, Switzerland</p>
+      
+  - align: right
+    image: bjoern-pic.png
+    content: about_bjoern.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Office 306</p>
+      <p>Rue Marconi 19</p>
+      <p>Martigny, Switzerland</p>
+
+
+
+# Visitors and Affiliated Researchers
+
+  - align: left
+    image: maya-pic.jpg
+    content: about_maya.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>University of Ghent</p>
+      <p>Ghent, Belgium</p>
+      
+  - align: right
+    image: paula-pic.jpg
+    content: about_paula.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Berlin</p>
+      <p>Germany</p>
+
 ---

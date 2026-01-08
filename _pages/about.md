@@ -34,4 +34,3 @@ Our research group develops and applies artificial intelligence approaches to ad
 
 **AI for Humans in Society** investigates how modern generative AI approaches can support mental health and wellbeing, as well as the potential health risks and societal challenges that these systems might give rise to. This research examines both the opportunities and risks of deploying AI in sensitive human contexts, ensuring these technologies serve genuine human needs, and addresses how models can be improved or designed for safety and trustworthiness.
 
-![Idiap Research Institute](img/idiap-logo.png "Idiap Research Institute")
