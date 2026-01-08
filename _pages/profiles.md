@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: members of the lab or group
 nav: true
-nav_order: 7
+nav_order: 4
 
 profiles:
 
@@ -18,7 +18,7 @@ profiles:
       <p>Office 302</p>
       <p>Rue Marconi 19</p>
       <p>Martigny, Switzerland</p>
-      
+
   - align: right
     image: lotti-pic.jpg
     content: about_lotti.md
@@ -36,7 +36,7 @@ profiles:
       <p>Office 306</p>
       <p>Rue Marconi 19</p>
       <p>Martigny, Switzerland</p>
-      
+
   - align: right
     image: bjoern-pic.png
     content: about_bjoern.md
@@ -57,7 +57,7 @@ profiles:
     more_info: >
       <p>University of Ghent</p>
       <p>Ghent, Belgium</p>
-      
+
   - align: right
     image: paula-pic.jpg
     content: about_paula.md
