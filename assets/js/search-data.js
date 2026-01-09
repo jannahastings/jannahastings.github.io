@@ -424,7 +424,7 @@ ninja.data = [{
               window.location.href = "/projects/4_project/";
             },},{id: "projects-apricot",
           title: 'APRICOT',
-          description: "...",
+          description: "Advancing Prevention Research In Cancer through Ontology Tools",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{
