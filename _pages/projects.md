@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Projects of the HCHAI group
 nav: true
 nav_order: 5
-display_categories: [work, fun]
+display_categories: [biomolecules, evidence, humans]
 horizontal: false
 ---
 
