@@ -1,11 +1,11 @@
 ---
 layout: page
 title: APRICOT
-description: ...
+description: Advancing Prevention Research In Cancer through Ontology Tools
 img: assets/img/APRICOT.png
 importance: 2
 category: evidence
-related_publications: true
+related_publications: false
 ---
 
 Behavioural science has enormous potential for addressing the many existential problems facing the world, such as disease and the climate crisis. Realising that potential depends on improving the science, including using precise and shared terms. This will enable researchers and research users to know what each other mean when they use terms, and researchers to integrate complex data and theory across silos, and use machine learning and artificial intelligence in data analysis.
