@@ -5,7 +5,7 @@ description: A new living evidence resource of early phase research for research
 img: assets/img/GALENOS.png
 importance: 1
 category: evidence
-related_publications: true
+related_publications: false
 ---
 
 It’s difficult for researchers, funders, people with lived experience, and others with an interest in mental health science to keep track of the ever-expanding literature. How can this information, which is published every day, all over the world, be gathered, analysed, and used effectively to design new research that makes a difference?

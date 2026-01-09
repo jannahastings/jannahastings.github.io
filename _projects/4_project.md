@@ -5,7 +5,7 @@ description: Inoculating Young People Against Harm from Unrealistic AI-Based Bod
 img: assets/img/7.jpg
 importance: 2
 category: humans
-related_publications: true
+related_publications: false
 ---
 A growing body of research in psychology and sociology has shown that profound dissatisfaction with body image is an increasingly pressing problem among young people, partly due to media exposure, which is expected to worsen with AI-generated idealised bodies.
 

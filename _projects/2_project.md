@@ -5,7 +5,7 @@ description: Algorithms for ontology extension and ontology-based knowledge inje
 img: assets/img/StrOntEx.png
 importance: 1
 category: biomolecules
-related_publications: true
+related_publications: false
 ---
 
 This DFG- and SNF-funded project is a collaboration with the group of Prof. Dr. Till Mossakowski at the University of Osnabrück in Germany, and Dr. Fabian Neuhaus at the Otto-von-Güricke University in Magdeburg, Germany. The overall ambition of the project is to develop and enhance predictive models for structural and functional classification of chemicals for large-scale data-driven biomolecular discovery. The project has three interrelated components: methods for _chemical classification_ and _ontology extension_, methods for enhancing _interpretability_, and methods for _knowledge injection_ into predictive models through ontology pre-training.
