@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Members of the HCHAI research group
 nav: true
 nav_order: 4
 

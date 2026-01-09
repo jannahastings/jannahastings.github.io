@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Projects of the HCHAI group
+description: Projects of the HCHAI research group
 nav: true
 nav_order: 5
 display_categories: [biomolecules, evidence, humans]
