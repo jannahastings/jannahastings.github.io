@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-people",
+          title: "people",
+          description: "Members of the HCHAI research group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "Projects of the HCHAI research group",

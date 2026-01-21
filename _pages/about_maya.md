@@ -1,3 +1,5 @@
+<h2> Visitors and Affiliated Researchers </h2>
+
 Maya Braun is a postdoctoral researcher at the University of Ghent, Belgium and University College London, and externally affiliated with the Human-Centered Health AI group.
 
 Maya studied clinical psychology at the Ruhr-Universität Bochum and Ghent University (2015 – 2020), and is studying statistical data analysis at Ghent University (2021-). She defended her dissertation titled “Personalized recommendations beyond the black box: the development and evaluation of an ontology of action and coping plans for physical activity.” at Ghent University in June 2024, obtaining her interdisciplinary PhD in Psychology and Computer Science Engineering.
