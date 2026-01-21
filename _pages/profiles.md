@@ -46,9 +46,6 @@ profiles:
       <p>Rue Marconi 19</p>
       <p>Martigny, Switzerland</p>
 
-
-<h2> Visitors and Affiliated Researchers </h2>
-
   - align: left
     image: maya-pic.jpg
     content: about_maya.md
