@@ -47,8 +47,7 @@ profiles:
       <p>Martigny, Switzerland</p>
 
 
-
-# Visitors and Affiliated Researchers
+<h2> Visitors and Affiliated Researchers </h2>
 
   - align: left
     image: maya-pic.jpg
