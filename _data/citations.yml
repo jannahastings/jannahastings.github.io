@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-01-23'
 papers:
   cz-hhPUAAAAJ:0izLItjtcgwC:
     citations: 3
@@ -126,7 +126,7 @@ papers:
     title: 'Chebifier: Automating semantic classification in ChEBI to accelerate data-driven discovery'
     year: '2024'
   cz-hhPUAAAAJ:9pM33mqn1YgC:
-    citations: 214
+    citations: 215
     title: 'The behaviour change technique ontology: transforming the behaviour change technique taxonomy v1'
     year: '2024'
   cz-hhPUAAAAJ:9vf0nzSNQJEC:
@@ -154,7 +154,7 @@ papers:
     title: Application of a general LLM-based classification system to retrieve information about oncological trials
     year: '2024'
   cz-hhPUAAAAJ:BJbdYPG6LGMC:
-    citations: 25
+    citations: 26
     title: 'Finding consensus on trust in AI in health care: recommendations from a panel of international experts'
     year: '2025'
   cz-hhPUAAAAJ:Bg7qf7VwUHIC:
@@ -214,7 +214,7 @@ papers:
     title: 'Introducing the Open Energy Ontology: Enhancing data interpretation and interfacing in energy systems analysis'
     year: '2021'
   cz-hhPUAAAAJ:F1b5ZUV5XREC:
-    citations: 69
+    citations: 71
     title: Implementing large language models in healthcare while balancing control, collaboration, costs and security
     year: '2025'
   cz-hhPUAAAAJ:F9fV5C73w3QC:
@@ -302,7 +302,7 @@ papers:
     title: Nuclear and cytoplasmic huntingtin inclusions exhibit distinct biochemical composition, interactome and ultrastructural properties
     year: '2021'
   cz-hhPUAAAAJ:L8Ckcad2t8MC:
-    citations: 91
+    citations: 92
     title: 'Representing mental functioning: Ontologies for mental health and disease'
     year: '2012'
   cz-hhPUAAAAJ:LI9QrySNdTsC:
@@ -362,7 +362,7 @@ papers:
     title: Towards an Ontology of Mental Functioning (ICBO Workshop), Proceeedings of the Third International Conference on Biomedical Ontology
     year: '2012'
   cz-hhPUAAAAJ:ODE9OILHJdcC:
-    citations: 123
+    citations: 124
     title: 'Title and abstract screening for literature reviews using large language models: an exploratory study in the biomedical domain'
     year: '2024'
   cz-hhPUAAAAJ:PELIpwtuRlgC:
@@ -390,7 +390,7 @@ papers:
     title: Chemical Ontologies for Standardization, Knowledge Discovery, and Data Mining
     year: '2013'
   cz-hhPUAAAAJ:RHpTSmoSYBkC:
-    citations: 15
+    citations: 16
     title: Ontologies for human behavior analysis and their application to clinical data
     year: '2012'
   cz-hhPUAAAAJ:RYcK_YlVTxYC:
@@ -522,11 +522,11 @@ papers:
     title: Three hybrid classifiers for the detection of emotions in suicide notes
     year: '2012'
   cz-hhPUAAAAJ:_5tno0g5mFcC:
-    citations: 46
+    citations: 47
     title: Exploring capabilities of large language models such as ChatGPT in radiation oncology
     year: '2024'
   cz-hhPUAAAAJ:_B80troHkn4C:
-    citations: 43
+    citations: 44
     title: Theory and ontology in behavioural science
     year: '2020'
   cz-hhPUAAAAJ:_FM0Bhl9EiAC:
@@ -534,7 +534,7 @@ papers:
     title: "Basic Formal Ontology 2.0: Specification and user\u2019s guide"
     year: '2015'
   cz-hhPUAAAAJ:_FxGoFyzp5QC:
-    citations: 65
+    citations: 66
     title: 'The emotion ontology: enabling interdisciplinary research in the affective sciences'
     year: '2011'
   cz-hhPUAAAAJ:_OXeSy2IsFwC:
@@ -822,7 +822,7 @@ papers:
     title: 'Learning chemistry: exploring the suitability of machine learning for the task of structure-based chemical ontology classification'
     year: '2021'
   cz-hhPUAAAAJ:tYavs44e6CUC:
-    citations: 1572
+    citations: 1573
     title: 'ClassyFire: automated chemical classification with a comprehensive, computable taxonomy'
     year: '2016'
   cz-hhPUAAAAJ:tkaPQYYpVKoC:
@@ -838,7 +838,7 @@ papers:
     title: 'Chemical entities of biological interest: an update'
     year: '2010'
   cz-hhPUAAAAJ:u5HHmVD_uO8C:
-    citations: 1481
+    citations: 1482
     title: 'ChEBI: a database and ontology for chemical entities of biological interest'
     year: '2007'
   cz-hhPUAAAAJ:uDGL6kOW6j0C:
@@ -858,7 +858,7 @@ papers:
     title: A T-Box Generator for testing scalability of OWL mereotopological patterns
     year: '2011'
   cz-hhPUAAAAJ:umqufdRvDiIC:
-    citations: 32
+    citations: 33
     title: 'Knowledge graphs for the life sciences: Recent developments, challenges and opportunities'
     year: '2023'
   cz-hhPUAAAAJ:v1_lew4L6wgC:
