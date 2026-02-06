@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-02-06'
 papers:
   cz-hhPUAAAAJ:0izLItjtcgwC:
     citations: 3
@@ -62,7 +62,7 @@ papers:
     title: "JOWO 2023-Proceedings of the Joint Ontology Workshops 2023, Episode IX: The Quebec Summer of Ontology, co-located with the 13th International Conference on Formal Ontology in \u2026"
     year: '2023'
   cz-hhPUAAAAJ:4fGpz3EwCPoC:
-    citations: 48
+    citations: 49
     title: An ontology of mechanisms of action in behaviour change interventions
     year: '2024'
   cz-hhPUAAAAJ:4xDN1ZYqzskC:
@@ -126,11 +126,11 @@ papers:
     title: 'Chebifier: Automating semantic classification in ChEBI to accelerate data-driven discovery'
     year: '2024'
   cz-hhPUAAAAJ:9pM33mqn1YgC:
-    citations: 216
+    citations: 218
     title: 'The behaviour change technique ontology: transforming the behaviour change technique taxonomy v1'
     year: '2024'
   cz-hhPUAAAAJ:9vf0nzSNQJEC:
-    citations: 69
+    citations: 70
     title: 'Development of an Intervention Setting Ontology for behaviour change: Specifying where interventions take place'
     year: '2020'
   cz-hhPUAAAAJ:9yKSN-GCB0IC:
@@ -186,7 +186,7 @@ papers:
     title: A Bayesian Network Meta-analysis of Systemic Treatments for Metastatic Castration-Resistant Prostate Cancer in First-and Subsequent Lines
     year: '2025'
   cz-hhPUAAAAJ:D03iK_w7-QYC:
-    citations: 1244
+    citations: 1246
     title: 'ChEBI in 2016: Improved services and an expanding collection of metabolites'
     year: '2016'
   cz-hhPUAAAAJ:DUooU5lO8OsC:
@@ -214,7 +214,7 @@ papers:
     title: 'Introducing the Open Energy Ontology: Enhancing data interpretation and interfacing in energy systems analysis'
     year: '2021'
   cz-hhPUAAAAJ:F1b5ZUV5XREC:
-    citations: 80
+    citations: 81
     title: Implementing large language models in healthcare while balancing control, collaboration, costs and security
     year: '2025'
   cz-hhPUAAAAJ:F9fV5C73w3QC:
@@ -362,7 +362,7 @@ papers:
     title: Towards an Ontology of Mental Functioning (ICBO Workshop), Proceeedings of the Third International Conference on Biomedical Ontology
     year: '2012'
   cz-hhPUAAAAJ:ODE9OILHJdcC:
-    citations: 129
+    citations: 130
     title: 'Title and abstract screening for literature reviews using large language models: an exploratory study in the biomedical domain'
     year: '2024'
   cz-hhPUAAAAJ:PELIpwtuRlgC:
@@ -398,7 +398,7 @@ papers:
     title: An ontology for drug-drug interactions
     year: '2014'
   cz-hhPUAAAAJ:SdhP9T11ey4C:
-    citations: 129
+    citations: 131
     title: 'Delivering Behaviour Change Interventions: Development of a Mode of Delivery Ontology'
     year: '2021'
   cz-hhPUAAAAJ:Se3iqnhoufwC:
@@ -414,7 +414,7 @@ papers:
     title: Expanding natural product chemistry resources at the EBI
     year: '2013'
   cz-hhPUAAAAJ:TQgYirikUcIC:
-    citations: 757
+    citations: 758
     title: "MetaboLights\u2014an open-access general-purpose repository for metabolomics studies and associated meta-data"
     year: '2013'
   cz-hhPUAAAAJ:Tiz5es2fbqcC:
@@ -442,7 +442,7 @@ papers:
     title: 'A database for chemical proteomics: ChEBI'
     year: '2011'
   cz-hhPUAAAAJ:V3AGJWp-ZtQC:
-    citations: 119
+    citations: 120
     title: Development of a formal system for representing behaviour-change theories
     year: '2019'
   cz-hhPUAAAAJ:VL0QpB8kHFEC:
@@ -466,7 +466,7 @@ papers:
     title: Semantic access to chemistry data with the ChEBI ontology and web services.
     year: '2009'
   cz-hhPUAAAAJ:WJVC3Jt7v1AC:
-    citations: 80
+    citations: 81
     title: Preventing harm from non-conscious bias in medical generative AI
     year: '2024'
   cz-hhPUAAAAJ:WbkHhVStYXYC:
@@ -550,7 +550,7 @@ papers:
     title: Structure-based classification and ontology in chemistry
     year: '2012'
   cz-hhPUAAAAJ:a0OBvERweLwC:
-    citations: 41
+    citations: 42
     title: Harmonising and linking biomedical and clinical data across disparate data archives to enable integrative cross-biobank research
     year: '2016'
   cz-hhPUAAAAJ:a3BOlSfXSfwC:
@@ -590,7 +590,7 @@ papers:
     title: 'Metabolic influences on ageing in Caenorhabditis elegans: A time series multi-omics and metabolic modelling study'
     year: '2019'
   cz-hhPUAAAAJ:bz8QjSJIRt4C:
-    citations: 20
+    citations: 21
     title: AI for scientific discovery
     year: '2023'
   cz-hhPUAAAAJ:cFHS6HbyZ2cC:
@@ -622,7 +622,7 @@ papers:
     title: Annotating affective neuroscience data with the emotion ontology
     year: '2012'
   cz-hhPUAAAAJ:e5wmG9Sq2KIC:
-    citations: 733
+    citations: 734
     title: 'The ChEBI reference database and ontology for biologically relevant chemistry: enhancements for 2013'
     year: '2012'
   cz-hhPUAAAAJ:eJXPG6dFmWUC:
@@ -642,7 +642,7 @@ papers:
     title: A scoping review of ontologies related to human behaviour change
     year: '2019'
   cz-hhPUAAAAJ:eq2jaN3J8jMC:
-    citations: 165
+    citations: 166
     title: 'Representation of behaviour change interventions and their evaluation: Development of the Upper Level of the Behaviour Change Intervention Ontology'
     year: '2021'
   cz-hhPUAAAAJ:f2IySw72cVMC:
@@ -694,7 +694,7 @@ papers:
     title: 'FMCS: a novel algorithm for the multiple MCS problem'
     year: '2013'
   cz-hhPUAAAAJ:ipzZ9siozwsC:
-    citations: 45
+    citations: 46
     title: 'Specifying who delivers behaviour change interventions: development of an Intervention Source Ontology'
     year: '2021'
   cz-hhPUAAAAJ:isC4tDSrTZIC:
@@ -826,7 +826,7 @@ papers:
     title: 'Learning chemistry: exploring the suitability of machine learning for the task of structure-based chemical ontology classification'
     year: '2021'
   cz-hhPUAAAAJ:tYavs44e6CUC:
-    citations: 1589
+    citations: 1591
     title: 'ClassyFire: automated chemical classification with a comprehensive, computable taxonomy'
     year: '2016'
   cz-hhPUAAAAJ:tkaPQYYpVKoC:
