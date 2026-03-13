@@ -442,6 +442,16 @@ ninja.data = [{
           description: "Advancing LLMs to support evidence management and decision-making in clinics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-socialmediai",
+          title: 'SocialMediAI',
+          description: "Understanding the impact of AI and social media interactions on human health",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
+            },},{id: "projects-companionais",
+          title: 'CompanionAIs',
+          description: "Understanding LLMs used for companionship or therapy and preventing harms",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
