@@ -432,6 +432,11 @@ ninja.data = [{
           description: "Advancing Prevention Research In Cancer through Ontology Tools",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-saturna-ai-for-rna-biology",
+          title: 'SATURNA - AI for RNA biology',
+          description: "Deciphering RNA structure, modification and function for therapeutic development",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
