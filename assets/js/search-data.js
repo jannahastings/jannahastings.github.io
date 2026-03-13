@@ -402,6 +402,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-new-article-published-we-studied-llms-answering-medical-questions-in-different-swiss-languages",
+          title: 'New article published! We studied LLMs answering medical questions in different Swiss languages...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20260313/";
             },},{id: "projects-galenos",
           title: 'GALENOS',
           description: "A new living evidence resource of early phase research for research prioritisation in mental health",
