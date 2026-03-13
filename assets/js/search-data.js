@@ -407,6 +407,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260313/";
+            },},{id: "news-open-position-postdoctoral-researcher-in-nlp-for-mental-health-galenos-project",
+          title: 'Open position! Postdoctoral researcher in NLP for mental health (GALENOS project)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20260313_2/";
             },},{id: "projects-galenos",
           title: 'GALENOS',
           description: "A new living evidence resource of early phase research for research prioritisation in mental health",
