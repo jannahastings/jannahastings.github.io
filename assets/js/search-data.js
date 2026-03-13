@@ -437,6 +437,11 @@ ninja.data = [{
           description: "Deciphering RNA structure, modification and function for therapeutic development",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-ai4clinics",
+          title: 'AI4CLINICS',
+          description: "Advancing LLMs to support evidence management and decision-making in clinics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
             },},{
         id: 'social-email',
         title: 'email',
