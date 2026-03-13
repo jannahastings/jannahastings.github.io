@@ -3,7 +3,7 @@ layout: page
 title: UnRealBody
 description: Inoculating Young People Against Harm from Unrealistic AI-Based Body Images
 img: assets/img/unrealbody1.png
-importance: 2
+importance: 1
 category: humans
 related_publications: false
 ---

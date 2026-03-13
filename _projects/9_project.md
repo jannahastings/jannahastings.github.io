@@ -3,7 +3,7 @@ layout: page
 title: CompanionAIs
 description: Understanding LLMs used for companionship or therapy and preventing harms
 img: assets/img/7.png
-importance: 1
+importance: 3
 category: humans
 related_publications: false
 ---
