@@ -12,3 +12,5 @@ related_publications: false
 By integrating advanced AI methods, comprehensive knowledge graphs, and real-world use cases, the project aims to transform how researchers analyse and leverage mass spectrometry data. This integrated approach paves the way for significant breakthroughs in metabolomics research. Ultimately, this multi-pronged strategy not only overcomes current limitations but also opens new avenues for innovation in both biomedical and environmental sciences.
 
 The Human-Centered Health AI research group contributes to MetaboLinkAI's work packages for  enhancing the analysis of metabolites in cellular extracts, and for developing innovative AI methods to enhance data interaction, handle uncertainty, and support informed decision-making in metabolomics.
+
+Check our implementation of a ChEBI-ontology-based metabolite set enrichment analysis tool,  [BiNChE](https://binche2.hastingslab.org/). 

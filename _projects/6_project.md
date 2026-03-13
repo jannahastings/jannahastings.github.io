@@ -3,6 +3,7 @@ layout: page
 title: SATURNA - AI for RNA biology
 description: Deciphering RNA structure, modification and function for therapeutic development
 img: assets/img/saturna.png
+importance: 3
 redirect: https://www.saturna.ch/
 category: biomolecules
 ---

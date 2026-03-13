@@ -2,7 +2,7 @@
 layout: page
 title: GALENOS
 description: A new living evidence resource of early phase research for research prioritisation in mental health
-img: assets/img/GALENOS.png
+img: assets/img/galenos2.png
 importance: 1
 category: evidence
 related_publications: false
