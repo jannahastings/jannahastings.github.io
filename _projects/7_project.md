@@ -23,6 +23,7 @@ Our group is interested in the human experience of clinicians when interacting w
 
 ## related publications
 <div class="publications">
-  {% bibliography -f papers -q @*[key=wosny_paradoxes_2024]* %}
+  {% bibliography -f papers -q @*[key=hastings_preventing_2024]* %}
   {% bibliography -f papers -q @*[key=dennstadt_implementing_2025]* %}
+  {% bibliography -f papers -q @*[key=wosny_paradoxes_2024]* %}
 </div>
