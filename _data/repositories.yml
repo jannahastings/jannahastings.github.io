@@ -1,5 +1,7 @@
 github_users:
   - jannahastings
+  - schnamo
+  - b-gehrke
 
 repo_description_lines_max: 2
 
@@ -7,7 +9,15 @@ github_repos:
   - ChEB-AI/chebifier
   - ontology-tools/py-horned-owl
   - ontology-tools/onto-spread-ed
+  - ontology-tools/onto-vis
   - hastingslab-org/evidence-database
   - hastingslab-org/ai-human-images
   - hastingslab-org/Variantscape
+  - hastingslab-org/swiss-medqa
+  - hastingslab-org/llm-firstperson
   - jannahastings/theory-database
+  - jannahastings/mental-functioning-ontology
+  - jannahastings/emotion-ontology
+  - HumanBehaviourChangeProject/ontologies
+  - galenos-project/literature-mining
+  - galenos-project/mental-health-ontology
