@@ -397,6 +397,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ai4sd/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mho/";
             },},{id: "news-the-mkds-group-moves-to-idiap-and-becomes-the-hchai-group",
           title: 'The MKDS group moves to Idiap, and becomes the HCHAI group!',
           description: "",
