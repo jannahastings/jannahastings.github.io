@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name:
-middle_name: 
+middle_name:
 last_name: Human-Centered Health AI
 contact_note: >
   Idiap Research Institute, Martigny, Switzerland
@@ -642,3 +642,11 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+# -----------------------------------------------------------------------------
+# Google Scholar Bot
+# -----------------------------------------------------------------------------
+
+repository: "jannahastings/jannahastings.github.io"
+google_scholar_stats_use_cdn: true # true: use CDN, delay might occur. false: use GitHub.com.
