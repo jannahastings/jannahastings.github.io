@@ -7,15 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<i class="ai ai-google-scholar-square"></i> [Google Scholar profile](https://scholar.google.com/citations?user=cz-hhPUAAAAJ) &nbsp; <i class="ai ai-orcid"></i> [ORCiD record](https://orcid.org/0000-0002-3469-4923)
-
-<a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_total_citation.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
-<a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_total_publications.json&labelColor=f6f6f6&color=9cf&style=flat&label=publications"></a>
-
-<a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_h_index.json&labelColor=f6f6f6&color=9cf&style=flat&label=h-index"></a>
-
-<a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_i10index.json&labelColor=f6f6f6&color=9cf&style=flat&label=i10-index"></a>
+<i class="ai ai-google-scholar-square"></i> [Google Scholar profile](https://scholar.google.com/citations?user=cz-hhPUAAAAJ) &nbsp; <i class="ai ai-orcid"></i> [ORCiD record](https://orcid.org/0000-0002-3469-4923) | <a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_total_citation.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> <a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_total_publications.json&labelColor=f6f6f6&color=9cf&style=flat&label=publications"></a> <a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_h_index.json&labelColor=f6f6f6&color=9cf&style=flat&label=h-index"></a> <a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_i10index.json&labelColor=f6f6f6&color=9cf&style=flat&label=i10-index"></a>
 
 <!-- _pages/publications.md -->
 
