@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-01'
 papers:
   cz-hhPUAAAAJ:-mN3Mh-tlDkC:
     citations: 0
@@ -66,7 +66,7 @@ papers:
     title: "JOWO 2023-Proceedings of the Joint Ontology Workshops 2023, Episode IX: The Quebec Summer of Ontology, co-located with the 13th International Conference on Formal Ontology in \u2026"
     year: '2023'
   cz-hhPUAAAAJ:4fGpz3EwCPoC:
-    citations: 54
+    citations: 55
     title: An ontology of mechanisms of action in behaviour change interventions
     year: '2024'
   cz-hhPUAAAAJ:4xDN1ZYqzskC:
@@ -214,7 +214,7 @@ papers:
     title: 'AI3SD Video: Automated chemical ontology expansion'
     year: '2021'
   cz-hhPUAAAAJ:EkHepimYqZsC:
-    citations: 147
+    citations: 148
     title: 'Introducing the Open Energy Ontology: Enhancing data interpretation and interfacing in energy systems analysis'
     year: '2021'
   cz-hhPUAAAAJ:F1b5ZUV5XREC:
@@ -366,7 +366,7 @@ papers:
     title: Towards an Ontology of Mental Functioning (ICBO Workshop), Proceeedings of the Third International Conference on Biomedical Ontology
     year: '2012'
   cz-hhPUAAAAJ:ODE9OILHJdcC:
-    citations: 149
+    citations: 150
     title: 'Title and abstract screening for literature reviews using large language models: an exploratory study in the biomedical domain'
     year: '2024'
   cz-hhPUAAAAJ:PELIpwtuRlgC:
@@ -706,7 +706,7 @@ papers:
     title: Processes and properties
     year: '2011'
   cz-hhPUAAAAJ:j3f4tGmQtD8C:
-    citations: 211
+    citations: 212
     title: 'UniChem: a unified chemical structure cross-referencing and identifier tracking system'
     year: '2013'
   cz-hhPUAAAAJ:j7_hQOaDUrUC:
@@ -822,7 +822,7 @@ papers:
     title: 'Implementing a resource-light and low-code large language model system for information extraction from mammography reports: a pilot study'
     year: '2025'
   cz-hhPUAAAAJ:sNmaIFBj_lkC:
-    citations: 31
+    citations: 32
     title: 'Specifying how intervention content is communicated: development of a style of delivery ontology'
     year: '2023'
   cz-hhPUAAAAJ:sSrBHYA8nusC:
@@ -834,11 +834,11 @@ papers:
     title: A CDE-based data structure for radiotherapeutic decision-making in breast cancer
     year: '2025'
   cz-hhPUAAAAJ:tKAzc9rXhukC:
-    citations: 43
+    citations: 42
     title: 'Learning chemistry: exploring the suitability of machine learning for the task of structure-based chemical ontology classification'
     year: '2021'
   cz-hhPUAAAAJ:tYavs44e6CUC:
-    citations: 1644
+    citations: 1645
     title: 'ClassyFire: automated chemical classification with a comprehensive, computable taxonomy'
     year: '2016'
   cz-hhPUAAAAJ:tkaPQYYpVKoC:
@@ -850,7 +850,7 @@ papers:
     title: 'Chemical entities of biological interest: an update'
     year: '2010'
   cz-hhPUAAAAJ:u5HHmVD_uO8C:
-    citations: 1500
+    citations: 1501
     title: 'ChEBI: a database and ontology for chemical entities of biological interest'
     year: '2007'
   cz-hhPUAAAAJ:uDGL6kOW6j0C:
@@ -870,7 +870,7 @@ papers:
     title: A T-Box Generator for testing scalability of OWL mereotopological patterns
     year: '2011'
   cz-hhPUAAAAJ:umqufdRvDiIC:
-    citations: 39
+    citations: 40
     title: 'Knowledge graphs for the life sciences: Recent developments, challenges and opportunities'
     year: '2023'
   cz-hhPUAAAAJ:v1_lew4L6wgC:
