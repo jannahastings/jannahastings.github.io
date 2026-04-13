@@ -417,6 +417,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260313_2/";
+            },},{id: "news-new-article-published-a-method-to-detect-trends-in-the-mental-health-literature",
+          title: 'New article published! A method to detect trends in the mental health literature...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20260413/";
             },},{id: "projects-galenos",
           title: 'GALENOS',
           description: "A new living evidence resource of early phase research for research prioritisation in mental health",
