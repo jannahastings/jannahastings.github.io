@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-04'
 papers:
   cz-hhPUAAAAJ:-mN3Mh-tlDkC:
     citations: 0
@@ -14,19 +14,15 @@ papers:
     title: The literary theme ontology for media annotation and information retrieval
     year: '2019'
   cz-hhPUAAAAJ:1taIhTC69MYC:
-    citations: 0
+    citations: 1
     title: "Combining implementation and data sciences to accelerate evidence integration into healthcare\u2013ImpleMATE"
     year: '2025'
-  cz-hhPUAAAAJ:1yWc8FF-_SYC:
-    citations: 0
-    title: Behaviour change techniques taxonomy v1
-    year: '2023'
   cz-hhPUAAAAJ:2P1L_qKh6hAC:
     citations: 15
     title: Ten recommendations for software engineering in research
     year: '2014'
   cz-hhPUAAAAJ:2VqYfGB8ITEC:
-    citations: 5
+    citations: 6
     title: Achieving consensus, coherence, clarity and consistency when talking about addiction
     year: '2024'
   cz-hhPUAAAAJ:2osOgNQ5qMEC:
@@ -41,10 +37,6 @@ papers:
     citations: 39
     title: 'Why and how to engage expert stakeholders in ontology development: insights from social and behavioural sciences'
     year: '2021'
-  cz-hhPUAAAAJ:3NQIlFlcGxIC:
-    citations: 0
-    title: The behaviour change technique ontology
-    year: '2023'
   cz-hhPUAAAAJ:3fE2CSJIrl8C:
     citations: 25
     title: Self-organizing ontology of biochemically relevant small molecules
@@ -54,11 +46,11 @@ papers:
     title: Development of an ontology of engagement with behaviour change interventions
     year: '2025'
   cz-hhPUAAAAJ:48xauSegjOkC:
-    citations: 7
+    citations: 9
     title: Decoding the interactions and functions of non-coding RNA with artificial intelligence
     year: '2025'
   cz-hhPUAAAAJ:4DMP91E08xMC:
-    citations: 52
+    citations: 53
     title: Toxicology ontology perspectives
     year: '2012'
   cz-hhPUAAAAJ:4MWp96NkSFoC:
@@ -94,7 +86,7 @@ papers:
     title: "Applied ontology for phenomenological psychopathology? A cautionary tale\u2013Authors' reply"
     year: '2022'
   cz-hhPUAAAAJ:6ZxmRoH8BuwC:
-    citations: 20
+    citations: 21
     title: Predicting outcomes of smoking cessation interventions in novel scenarios using ontology-informed, interpretable machine learning
     year: '2025'
   cz-hhPUAAAAJ:6bLC7aUMtPcC:
@@ -106,7 +98,7 @@ papers:
     title: Evaluating the Emotion Ontology through use in the self-reporting of emotional responses at an academic conference
     year: '2014'
   cz-hhPUAAAAJ:7Hz3ACDFbsoC:
-    citations: 0
+    citations: 1
     title: Deep learning aging marker from retinal images unveils sex-specific clinical and genetic signatures
     year: '2025'
   cz-hhPUAAAAJ:7PzlFSSx8tAC:
@@ -114,7 +106,7 @@ papers:
     title: Waves and fields in bio-ontologies.
     year: '2012'
   cz-hhPUAAAAJ:86PQX7AUzd4C:
-    citations: 46
+    citations: 48
     title: Ontology development is consensus creation, not (merely) representation
     year: '2022'
   cz-hhPUAAAAJ:8d8msizDQcsC:
@@ -126,7 +118,7 @@ papers:
     title: Parts and wholes, shapes and holes in living beings
     year: '2011'
   cz-hhPUAAAAJ:8xutWZnSdmoC:
-    citations: 13
+    citations: 14
     title: 'The BSSO Foundry: A community of practice for ontologies in the behavioural and social sciences'
     year: '2024'
   cz-hhPUAAAAJ:9ZlFYXVOiuMC:
@@ -138,7 +130,7 @@ papers:
     title: 'Chebifier: Automating semantic classification in ChEBI to accelerate data-driven discovery'
     year: '2024'
   cz-hhPUAAAAJ:9pM33mqn1YgC:
-    citations: 234
+    citations: 243
     title: 'The behaviour change technique ontology: transforming the behaviour change technique taxonomy v1'
     year: '2024'
   cz-hhPUAAAAJ:9vf0nzSNQJEC:
@@ -150,7 +142,7 @@ papers:
     title: Representing Chemicals Using OWL, Description Graphs and Rules.
     year: '2010'
   cz-hhPUAAAAJ:AHdEip9mkN0C:
-    citations: 1
+    citations: 3
     title: Structure-based metabolite function prediction using graph neural networks
     year: '2025'
   cz-hhPUAAAAJ:AXPGKjj_ei8C:
@@ -166,7 +158,7 @@ papers:
     title: Application of a general LLM-based classification system to retrieve information about oncological trials
     year: '2024'
   cz-hhPUAAAAJ:BJbdYPG6LGMC:
-    citations: 32
+    citations: 36
     title: 'Finding consensus on trust in AI in health care: recommendations from a panel of international experts'
     year: '2025'
   cz-hhPUAAAAJ:Bg7qf7VwUHIC:
@@ -177,10 +169,6 @@ papers:
     citations: 31
     title: Exploiting disjointness axioms to improve semantic similarity measures
     year: '2013'
-  cz-hhPUAAAAJ:Br1UauaknNIC:
-    citations: 0
-    title: Not Peer Reviewed This article is an Editorial and has not been subject to external peer review. Any comments on the article can be found at the end of the article.
-    year: Unknown Year
   cz-hhPUAAAAJ:BrmTIyaxlBUC:
     citations: 23
     title: 'Addiction Theories and Constructs: a new series'
@@ -205,16 +193,12 @@ papers:
     citations: 1
     title: A Bayesian Network Meta-analysis of Systemic Treatments for Metastatic Castration-Resistant Prostate Cancer in First-and Subsequent Lines
     year: '2025'
-  cz-hhPUAAAAJ:CdxZDUztZiMC:
-    citations: 0
-    title: An ontological framework for organising and describing behaviours
-    year: '2025'
   cz-hhPUAAAAJ:D03iK_w7-QYC:
-    citations: 1280
+    citations: 1296
     title: 'ChEBI in 2016: Improved services and an expanding collection of metabolites'
     year: '2016'
   cz-hhPUAAAAJ:DUooU5lO8OsC:
-    citations: 108
+    citations: 115
     title: 'Experience of health care professionals using digital tools in the hospital: qualitative systematic review'
     year: '2023'
   cz-hhPUAAAAJ:D_sINldO8mEC:
@@ -234,11 +218,11 @@ papers:
     title: 'AI3SD Video: Automated chemical ontology expansion'
     year: '2021'
   cz-hhPUAAAAJ:EkHepimYqZsC:
-    citations: 150
+    citations: 156
     title: 'Introducing the Open Energy Ontology: Enhancing data interpretation and interfacing in energy systems analysis'
     year: '2021'
   cz-hhPUAAAAJ:F1b5ZUV5XREC:
-    citations: 96
+    citations: 102
     title: Implementing large language models in healthcare while balancing control, collaboration, costs and security
     year: '2025'
   cz-hhPUAAAAJ:F9fV5C73w3QC:
@@ -250,7 +234,7 @@ papers:
     title: 'Applied ontology: Where are we now and where are we going?'
     year: '2023'
   cz-hhPUAAAAJ:FiytvqdAVhgC:
-    citations: 0
+    citations: 1
     title: 'Tracking the Evolving Role of Artificial Intelligence in Implementation Science: Protocol for a Living Scoping Review of Applications, Evaluation Approaches and Outcomes'
     year: '2026'
   cz-hhPUAAAAJ:GFxP56DSvIMC:
@@ -266,7 +250,7 @@ papers:
     title: Cheminformatics
     year: '2012'
   cz-hhPUAAAAJ:HIFyuExEbWQC:
-    citations: 13
+    citations: 11
     title: Proteomic profiling for biomarker discovery in heparin-induced thrombocytopenia
     year: '2024'
   cz-hhPUAAAAJ:HbR8gkJAVGIC:
@@ -278,7 +262,7 @@ papers:
     title: 'BiNChE: a web tool and library for chemical enrichment analysis based on the ChEBI ontology'
     year: '2015'
   cz-hhPUAAAAJ:HtEfBTGE9r8C:
-    citations: 9
+    citations: 10
     title: Neuro-Symbolic Semantic Learning for Chemistry.
     year: '2023'
   cz-hhPUAAAAJ:HtS1dXgVpQUC:
@@ -318,15 +302,15 @@ papers:
     title: How an Addiction Ontology can Unify Competing Conceptualizations of Addiction
     year: '2022'
   cz-hhPUAAAAJ:KbBQZpvPDL4C:
-    citations: 22
+    citations: 23
     title: 'The paradoxes of digital tools in hospitals: qualitative interview study'
     year: '2024'
   cz-hhPUAAAAJ:L7CI7m0gUJcC:
-    citations: 131
+    citations: 133
     title: Nuclear and cytoplasmic huntingtin inclusions exhibit distinct biochemical composition, interactome and ultrastructural properties
     year: '2021'
   cz-hhPUAAAAJ:L8Ckcad2t8MC:
-    citations: 94
+    citations: 96
     title: 'Representing mental functioning: Ontologies for mental health and disease'
     year: '2012'
   cz-hhPUAAAAJ:LI9QrySNdTsC:
@@ -337,10 +321,6 @@ papers:
     citations: 44
     title: "Modeling meets metabolomics\u2014the WormJam consensus model as basis for metabolic studies in the model organism Caenorhabditis elegans"
     year: '2018'
-  cz-hhPUAAAAJ:LPtt_HFRSbwC:
-    citations: 0
-    title: The human behaviour-change project phase 2
-    year: '2024'
   cz-hhPUAAAAJ:LgRImbQfgY4C:
     citations: 5
     title: Development of an Intervention Population Ontology for specifying the characteristics of intervention participants
@@ -350,15 +330,15 @@ papers:
     title: Applying large language models to interpret qualitative interviews in healthcare
     year: '2024'
   cz-hhPUAAAAJ:LjlpjdlvIbIC:
-    citations: 10
+    citations: 11
     title: 'Mental Health Ontologies: How We Talk about Mental Health, and Why it Matters in the Digital Age'
     year: '2020'
   cz-hhPUAAAAJ:LkGwnXOMwfcC:
-    citations: 60
+    citations: 62
     title: Dispositions and processes in the Emotion Ontology
     year: '2011'
   cz-hhPUAAAAJ:M3NEmzRMIkIC:
-    citations: 165
+    citations: 166
     title: The ChEMBL database as linked open data
     year: '2013'
   cz-hhPUAAAAJ:M3ejUd6NZC8C:
@@ -378,11 +358,11 @@ papers:
     title: A method for evaluating the interoperability of ontology classes in the behavioural and social sciences
     year: '2025'
   cz-hhPUAAAAJ:N5tVd3kTz84C:
-    citations: 9
+    citations: 10
     title: "Mapping the Patient\u2019s Experience: An Applied Ontological Framework for Phenomenological Psychopathology"
     year: '2020'
   cz-hhPUAAAAJ:NMxIlDl6LWMC:
-    citations: 76
+    citations: 77
     title: 'Dovetailing biology and chemistry: integrating the Gene Ontology with the ChEBI chemical ontology'
     year: '2013'
   cz-hhPUAAAAJ:NhqRSupF_l8C:
@@ -390,7 +370,7 @@ papers:
     title: Towards an Ontology of Mental Functioning (ICBO Workshop), Proceeedings of the Third International Conference on Biomedical Ontology
     year: '2012'
   cz-hhPUAAAAJ:ODE9OILHJdcC:
-    citations: 153
+    citations: 160
     title: 'Title and abstract screening for literature reviews using large language models: an exploratory study in the biomedical domain'
     year: '2024'
   cz-hhPUAAAAJ:PELIpwtuRlgC:
@@ -398,7 +378,7 @@ papers:
     title: The case for development of an E-cigarette Ontology (E-CigO) to improve quality, efficiency and clarity in the conduct and interpretation of research
     year: '2020'
   cz-hhPUAAAAJ:PVgj2kMGcgYC:
-    citations: 0
+    citations: 1
     title: 'Box embeddings for extending ontologies: a data-driven and interpretable approach'
     year: '2025'
   cz-hhPUAAAAJ:PaBasH6fAo0C:
@@ -426,7 +406,7 @@ papers:
     title: An ontology for drug-drug interactions
     year: '2014'
   cz-hhPUAAAAJ:SdhP9T11ey4C:
-    citations: 138
+    citations: 139
     title: 'Delivering Behaviour Change Interventions: Development of a Mode of Delivery Ontology'
     year: '2021'
   cz-hhPUAAAAJ:Se3iqnhoufwC:
@@ -437,12 +417,16 @@ papers:
     citations: 0
     title: Pipeline for automated structure-based classification in the ChEBI ontology
     year: '2014'
+  cz-hhPUAAAAJ:SjuI4pbJlxcC:
+    citations: 0
+    title: 'AI Methods for Implementation Science (AIM-IS): developing a framework, toolkit, and reporting standard for the responsible use of AI in implementation practice and research'
+    year: '2026'
   cz-hhPUAAAAJ:TFP_iSt0sucC:
     citations: 0
     title: Expanding natural product chemistry resources at the EBI
     year: '2013'
   cz-hhPUAAAAJ:TQgYirikUcIC:
-    citations: 755
+    citations: 759
     title: "MetaboLights\u2014an open-access general-purpose repository for metabolomics studies and associated meta-data"
     year: '2013'
   cz-hhPUAAAAJ:Tiz5es2fbqcC:
@@ -470,39 +454,35 @@ papers:
     title: 'A database for chemical proteomics: ChEBI'
     year: '2011'
   cz-hhPUAAAAJ:V3AGJWp-ZtQC:
-    citations: 122
+    citations: 125
     title: Development of a formal system for representing behaviour-change theories
     year: '2019'
   cz-hhPUAAAAJ:VL0QpB8kHFEC:
-    citations: 68
+    citations: 69
     title: An ontology-based modelling system (OBMS) for representing behaviour change theories applied to 76 theories
     year: '2020'
   cz-hhPUAAAAJ:VaXvl8Fpj5cC:
-    citations: 39
+    citations: 43
     title: More phenomenology in psychiatry? Applied ontology as a method towards integration
     year: '2022'
   cz-hhPUAAAAJ:W7OEmFMy1HYC:
-    citations: 146
+    citations: 147
     title: 'The chemical information ontology: provenance and disambiguation for chemical data on the biological semantic web'
     year: '2011'
   cz-hhPUAAAAJ:WC23djZS0W4C:
     citations: 0
     title: BCIO Data extraction template v1. xlsx
     year: '2023'
-  cz-hhPUAAAAJ:WC9gN4BGCRcC:
-    citations: 0
-    title: The BSSO Foundry
-    year: '2024'
   cz-hhPUAAAAJ:WF5omc3nYNoC:
     citations: 1
     title: Semantic access to chemistry data with the ChEBI ontology and web services.
     year: '2009'
   cz-hhPUAAAAJ:WJVC3Jt7v1AC:
-    citations: 80
+    citations: 81
     title: Preventing harm from non-conscious bias in medical generative AI
     year: '2024'
   cz-hhPUAAAAJ:WbkHhVStYXYC:
-    citations: 175
+    citations: 177
     title: 'Identifiers for the 21st century: How to design, provision, and reuse persistent identifiers to maximize utility and impact of life science data'
     year: '2017'
   cz-hhPUAAAAJ:XUvXOeBm_78C:
@@ -558,11 +538,11 @@ papers:
     title: Three hybrid classifiers for the detection of emotions in suicide notes
     year: '2012'
   cz-hhPUAAAAJ:_5tno0g5mFcC:
-    citations: 48
+    citations: 50
     title: Exploring capabilities of large language models such as ChatGPT in radiation oncology
     year: '2024'
   cz-hhPUAAAAJ:_B80troHkn4C:
-    citations: 44
+    citations: 45
     title: Theory and ontology in behavioural science
     year: '2020'
   cz-hhPUAAAAJ:_FM0Bhl9EiAC:
@@ -570,7 +550,7 @@ papers:
     title: "Basic Formal Ontology 2.0: Specification and user\u2019s guide"
     year: '2015'
   cz-hhPUAAAAJ:_FxGoFyzp5QC:
-    citations: 70
+    citations: 71
     title: 'The emotion ontology: enabling interdisciplinary research in the affective sciences'
     year: '2011'
   cz-hhPUAAAAJ:_OXeSy2IsFwC:
@@ -578,7 +558,7 @@ papers:
     title: 'Practical recommendations for navigating digital tools in hospitals: qualitative interview study'
     year: '2024'
   cz-hhPUAAAAJ:_axFR9aDTf0C:
-    citations: 12
+    citations: 13
     title: "Toward an ontology of identity\u2010related constructs in addiction, with examples from nicotine and tobacco research"
     year: '2023'
   cz-hhPUAAAAJ:_kc_bZDykSQC:
@@ -590,7 +570,7 @@ papers:
     title: Harmonising and linking biomedical and clinical data across disparate data archives to enable integrative cross-biobank research
     year: '2016'
   cz-hhPUAAAAJ:anf4URPfarAC:
-    citations: 19
+    citations: 20
     title: New living evidence resource of human and non-human studies for early intervention and research prioritisation in anxiety, depression and psychosis
     year: '2023'
   cz-hhPUAAAAJ:artPoR2Yc-kC:
@@ -622,39 +602,39 @@ papers:
     title: 'Metabolic influences on ageing in Caenorhabditis elegans: A time series multi-omics and metabolic modelling study'
     year: '2019'
   cz-hhPUAAAAJ:bz8QjSJIRt4C:
-    citations: 20
+    citations: 21
     title: AI for scientific discovery
     year: '2023'
   cz-hhPUAAAAJ:cFHS6HbyZ2cC:
-    citations: 145
+    citations: 146
     title: The eNanoMapper database for nanomaterial safety information
     year: '2015'
   cz-hhPUAAAAJ:cWzG1nlazyYC:
-    citations: 17
+    citations: 18
     title: 'Cross-care: assessing the healthcare implications of pre-training data on language model bias'
     year: '2024'
   cz-hhPUAAAAJ:d1gkVwhDpl0C:
-    citations: 66
+    citations: 67
     title: 'ChEBI: an open bioinformatics and cheminformatics resource'
     year: '2009'
   cz-hhPUAAAAJ:dBIO0h50nwkC:
-    citations: 22
+    citations: 24
     title: 'Trace amine-associated receptor 1 (TAAR1) agonism for psychosis: a living systematic review and meta-analysis of human and non-human data'
     year: '2024'
   cz-hhPUAAAAJ:dTyEYWd-f8wC:
-    citations: 57
-    title: 'The Human Behaviour-Change Project: An artificial intelligence system to answer questions about changing behaviour.'
+    citations: 56
+    title: 'The Human Behaviour-Change Project: An artificial intelligence system to answer questions about changing behaviour'
     year: '2020'
   cz-hhPUAAAAJ:dfsIfKJdRG4C:
-    citations: 145
+    citations: 146
     title: 'PubChemRDF: towards the semantic annotation of PubChem compound and substance databases'
     year: '2015'
   cz-hhPUAAAAJ:dhFuZR0502QC:
-    citations: 14
+    citations: 15
     title: Annotating affective neuroscience data with the emotion ontology
     year: '2012'
   cz-hhPUAAAAJ:e5wmG9Sq2KIC:
-    citations: 736
+    citations: 740
     title: 'The ChEBI reference database and ontology for biologically relevant chemistry: enhancements for 2013'
     year: '2012'
   cz-hhPUAAAAJ:eJXPG6dFmWUC:
@@ -674,7 +654,7 @@ papers:
     title: A scoping review of ontologies related to human behaviour change
     year: '2019'
   cz-hhPUAAAAJ:eq2jaN3J8jMC:
-    citations: 175
+    citations: 176
     title: 'Representation of behaviour change interventions and their evaluation: Development of the Upper Level of the Behaviour Change Intervention Ontology'
     year: '2021'
   cz-hhPUAAAAJ:f2IySw72cVMC:
@@ -686,7 +666,7 @@ papers:
     title: 'Electronic cigarettes and subsequent use of cigarettes in young people: An evidence and gap map'
     year: '2024'
   cz-hhPUAAAAJ:fPk4N6BV_jEC:
-    citations: 70
+    citations: 71
     title: "DINTO: using OWL ontologies and SWRL rules to infer drug\u2013drug interactions and their mechanisms"
     year: '2015'
   cz-hhPUAAAAJ:foquWX3nUaYC:
@@ -694,7 +674,7 @@ papers:
     title: 'ESC-rules: Explainable, semantically constrained rule sets'
     year: '2022'
   cz-hhPUAAAAJ:geHnlv5EZngC:
-    citations: 37
+    citations: 39
     title: 'From affective science to psychiatric disorder: Ontology as a semantic bridge'
     year: '2018'
   cz-hhPUAAAAJ:hC7cP41nSMkC:
@@ -721,16 +701,12 @@ papers:
     citations: 10
     title: 'Chemical ontologies: what are they, what are they for and what are the challenges'
     year: '2011'
-  cz-hhPUAAAAJ:hsZV8lGYWTMC:
-    citations: 0
-    title: 'ORIGINAL RESEARCH published: 06 February 2019'
-    year: Unknown Year
   cz-hhPUAAAAJ:iH-uZ7U-co4C:
     citations: 58
     title: 'FMCS: a novel algorithm for the multiple MCS problem'
     year: '2013'
   cz-hhPUAAAAJ:ipzZ9siozwsC:
-    citations: 49
+    citations: 48
     title: 'Specifying who delivers behaviour change interventions: development of an Intervention Source Ontology'
     year: '2021'
   cz-hhPUAAAAJ:isC4tDSrTZIC:
@@ -738,7 +714,7 @@ papers:
     title: Processes and properties
     year: '2011'
   cz-hhPUAAAAJ:j3f4tGmQtD8C:
-    citations: 213
+    citations: 215
     title: 'UniChem: a unified chemical structure cross-referencing and identifier tracking system'
     year: '2013'
   cz-hhPUAAAAJ:j7_hQOaDUrUC:
@@ -794,7 +770,7 @@ papers:
     title: Accessing and using chemical property databases
     year: '2012'
   cz-hhPUAAAAJ:mNrWkgRL2YcC:
-    citations: 21
+    citations: 23
     title: 'An ontological framework for organising and describing behaviours: The Human Behaviour Ontology'
     year: '2025'
   cz-hhPUAAAAJ:maZDTaKrznsC:
@@ -802,11 +778,11 @@ papers:
     title: 'The MetaboLights repository: curation challenges in metabolomics'
     year: '2013'
   cz-hhPUAAAAJ:mlAyqtXpCwEC:
-    citations: 11
+    citations: 12
     title: 'Towards an ontology of mental health: Protocol for developing an ontology to structure and integrate evidence regarding anxiety, depression and psychosis'
     year: '2024'
   cz-hhPUAAAAJ:nVrZBo8bIpAC:
-    citations: 10
+    citations: 11
     title: 'The Human Behaviour-Change Project Phase 2: Advancing behavioural and social sciences through ontology tools'
     year: '2024'
   cz-hhPUAAAAJ:owLR8QvbtFgC:
@@ -826,7 +802,7 @@ papers:
     title: 'Performance Evaluation of Large Language Models in Multilingual Medical Multiple-Choice Questions: Mixed Methods Study'
     year: '2026'
   cz-hhPUAAAAJ:q3CdL3IzO_QC:
-    citations: 22
+    citations: 24
     title: 'Developing and using ontologies in behavioural science: addressing issues raised'
     year: '2023'
   cz-hhPUAAAAJ:q3oQSFYPqjQC:
@@ -838,9 +814,13 @@ papers:
     title: Controlled vocabularies and semantics in systems biology
     year: '2011'
   cz-hhPUAAAAJ:qxL8FJ1GzNcC:
-    citations: 38
+    citations: 39
     title: A toxicology ontology roadmap
     year: '2012'
+  cz-hhPUAAAAJ:rHJHxKgnXwkC:
+    citations: 0
+    title: 'The GALENOS Upper-Level Mental Health Ontology: Enabling evidence synthesis by representing the domain of mental health and associated interventions'
+    year: '2026'
   cz-hhPUAAAAJ:r_AWSJRzSzQC:
     citations: 0
     title: Substance class annotation for long candidate lists in metabolite identification using structural ontologies
@@ -870,7 +850,7 @@ papers:
     title: 'Learning chemistry: exploring the suitability of machine learning for the task of structure-based chemical ontology classification'
     year: '2021'
   cz-hhPUAAAAJ:tYavs44e6CUC:
-    citations: 1652
+    citations: 1674
     title: 'ClassyFire: automated chemical classification with a comprehensive, computable taxonomy'
     year: '2016'
   cz-hhPUAAAAJ:tkaPQYYpVKoC:
@@ -878,11 +858,11 @@ papers:
     title: Using Genome-Scale Metabolic Networks for Analysis, Visualization, and Integration of Targeted Metabolomics Data
     year: '2020'
   cz-hhPUAAAAJ:u-x6o8ySG0sC:
-    citations: 420
+    citations: 422
     title: 'Chemical entities of biological interest: an update'
     year: '2010'
   cz-hhPUAAAAJ:u5HHmVD_uO8C:
-    citations: 1503
+    citations: 1507
     title: 'ChEBI: a database and ontology for chemical entities of biological interest'
     year: '2007'
   cz-hhPUAAAAJ:uDGL6kOW6j0C:
@@ -902,7 +882,7 @@ papers:
     title: A T-Box Generator for testing scalability of OWL mereotopological patterns
     year: '2011'
   cz-hhPUAAAAJ:umqufdRvDiIC:
-    citations: 41
+    citations: 43
     title: 'Knowledge graphs for the life sciences: Recent developments, challenges and opportunities'
     year: '2023'
   cz-hhPUAAAAJ:v1_lew4L6wgC:
@@ -922,7 +902,7 @@ papers:
     title: 'Variantscape: Using Large Language Models to Build a Comprehensive Landscape of Cancer Variants for Precision Oncology'
     year: '2025'
   cz-hhPUAAAAJ:xtoqd-5pKcoC:
-    citations: 44
+    citations: 43
     title: 'Behaviour change techniques taxonomy v1: Feedback to inform the development of an ontology'
     year: '2023'
   cz-hhPUAAAAJ:yB1At4FlUx8C:
@@ -938,11 +918,11 @@ papers:
     title: "The Illusory Goal of Automating Ontology Development\u2013with or without Large Language Models"
     year: '2024'
   cz-hhPUAAAAJ:yqoGN6RLRZoC:
-    citations: 5
+    citations: 6
     title: Evaluating text-to-image generated photorealistic images of human anatomy
     year: '2024'
   cz-hhPUAAAAJ:zCSUwVk65WsC:
-    citations: 3
+    citations: 4
     title: 'OntoSpreadEd: Developing Ontologies with a Dedicated Online Template Spreadsheet Editor'
     year: '2025'
   cz-hhPUAAAAJ:zYLM7Y9cAGgC:
