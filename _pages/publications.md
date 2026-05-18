@@ -11,7 +11,7 @@ nav_order: 3
 <a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_total_citation.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 <a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_total_publications.json&labelColor=f6f6f6&color=9cf&style=flat&label=publications"></a>
 <a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_h_index.json&labelColor=f6f6f6&color=9cf&style=flat&label=h-index"></a>
-<a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_i10index.json&labelColor=f6f6f6&color=9cf&style=flat&label=i10-index"></a>
+<a href='https://scholar.google.com/citations?user=cz-hhPUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjannahastings%2Fjannahastings.github.io@google-scholar-stats%2Fgs_data_i10_index.json&labelColor=f6f6f6&color=9cf&style=flat&label=i10-index"></a>
 
 <br/>
 
