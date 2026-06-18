@@ -55,6 +55,14 @@ profiles:
       <p>Ghent, Belgium</p>
 
   - align: right
+    image: mica-pic.jpg
+    content: about_mica.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>University College London</p>
+      <p>London, UK</p>
+
+  - align: left
     image: paula-pic.jpg
     content: about_paula.md
     image_circular: false # crops the image to make it circular
