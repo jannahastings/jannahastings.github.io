@@ -422,6 +422,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260413/";
+            },},{id: "news-open-position-phd-student-in-knowledge-alignment-for-rna-ai-models-saturna-project",
+          title: 'Open position! PhD student in knowledge alignment for RNA AI models (SATURNA project)...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20260701/";
             },},{id: "projects-galenos",
           title: 'GALENOS',
           description: "A new living evidence resource of early phase research for research prioritisation in mental health",
