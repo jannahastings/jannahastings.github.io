@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-10'
 papers:
   cz-hhPUAAAAJ:-7ulzOJl1JYC:
     citations: 0
@@ -17,6 +17,10 @@ papers:
     citations: 3
     title: Human Factors Influencing the Experience of Healthcare Professionals Using Digital Tools
     year: '2023'
+  cz-hhPUAAAAJ:1DsIQWDZLl8C:
+    citations: 0
+    title: 'Variantscape: Large Language Model-Driven Mining of Biomedical Literature for Clinical Interpretation of Cancer Variants'
+    year: '2026'
   cz-hhPUAAAAJ:1qzjygNMrQYC:
     citations: 6
     title: The literary theme ontology for media annotation and information retrieval
@@ -26,7 +30,7 @@ papers:
     title: "Combining implementation and data sciences to accelerate evidence integration into healthcare\u2013ImpleMATE"
     year: '2025'
   cz-hhPUAAAAJ:2P1L_qKh6hAC:
-    citations: 17
+    citations: 18
     title: Ten recommendations for software engineering in research
     year: '2014'
   cz-hhPUAAAAJ:2VqYfGB8ITEC:
@@ -54,7 +58,7 @@ papers:
     title: Development of an ontology of engagement with behaviour change interventions
     year: '2025'
   cz-hhPUAAAAJ:48xauSegjOkC:
-    citations: 12
+    citations: 13
     title: Decoding the interactions and functions of non-coding RNA with artificial intelligence
     year: '2025'
   cz-hhPUAAAAJ:4DMP91E08xMC:
@@ -114,7 +118,7 @@ papers:
     title: Waves and fields in bio-ontologies.
     year: '2012'
   cz-hhPUAAAAJ:86PQX7AUzd4C:
-    citations: 49
+    citations: 50
     title: Ontology development is consensus creation, not (merely) representation
     year: '2022'
   cz-hhPUAAAAJ:8d8msizDQcsC:
@@ -138,7 +142,7 @@ papers:
     title: 'Chebifier: Automating semantic classification in ChEBI to accelerate data-driven discovery'
     year: '2024'
   cz-hhPUAAAAJ:9pM33mqn1YgC:
-    citations: 286
+    citations: 289
     title: 'The behaviour change technique ontology: transforming the behaviour change technique taxonomy v1'
     year: '2024'
   cz-hhPUAAAAJ:9vf0nzSNQJEC:
@@ -162,11 +166,11 @@ papers:
     title: Creation of a CDE-based data structure for radiotherapeutic decision-making in breast cancer
     year: '2024'
   cz-hhPUAAAAJ:Aul-kAQHnToC:
-    citations: 13
+    citations: 14
     title: Application of a General Large Language Model-Based Classification System to Retrieve Information about Oncological Trials
     year: '2025'
   cz-hhPUAAAAJ:BJbdYPG6LGMC:
-    citations: 46
+    citations: 47
     title: 'Finding consensus on trust in AI in health care: recommendations from a panel of international experts'
     year: '2025'
   cz-hhPUAAAAJ:Bg7qf7VwUHIC:
@@ -202,7 +206,7 @@ papers:
     title: A Bayesian Network Meta-analysis of Systemic Treatments for Metastatic Castration-Resistant Prostate Cancer in First-and Subsequent Lines
     year: '2025'
   cz-hhPUAAAAJ:D03iK_w7-QYC:
-    citations: 1359
+    citations: 1365
     title: 'ChEBI in 2016: Improved services and an expanding collection of metabolites'
     year: '2016'
   cz-hhPUAAAAJ:DBa1UEJaJKAC:
@@ -234,7 +238,7 @@ papers:
     title: 'Introducing the Open Energy Ontology: Enhancing data interpretation and interfacing in energy systems analysis'
     year: '2021'
   cz-hhPUAAAAJ:F1b5ZUV5XREC:
-    citations: 164
+    citations: 168
     title: Implementing large language models in healthcare while balancing control, collaboration, costs and security
     year: '2025'
   cz-hhPUAAAAJ:F9fV5C73w3QC:
@@ -322,11 +326,11 @@ papers:
     title: "Development, validation, and user-centric evaluation of an interpretable machine learning decision support tool for the preoperative prediction of mild bleeding disorders (MBD \u2026"
     year: '2026'
   cz-hhPUAAAAJ:KbBQZpvPDL4C:
-    citations: 30
+    citations: 31
     title: 'The paradoxes of digital tools in hospitals: qualitative interview study'
     year: '2024'
   cz-hhPUAAAAJ:L7CI7m0gUJcC:
-    citations: 141
+    citations: 142
     title: Nuclear and cytoplasmic huntingtin inclusions exhibit distinct biochemical composition, interactome and ultrastructural properties
     year: '2021'
   cz-hhPUAAAAJ:L8Ckcad2t8MC:
@@ -394,7 +398,7 @@ papers:
     title: Towards an Ontology of Mental Functioning (ICBO Workshop), Proceeedings of the Third International Conference on Biomedical Ontology
     year: '2012'
   cz-hhPUAAAAJ:ODE9OILHJdcC:
-    citations: 194
+    citations: 195
     title: 'Title and abstract screening for literature reviews using large language models: an exploratory study in the biomedical domain'
     year: '2024'
   cz-hhPUAAAAJ:PELIpwtuRlgC:
@@ -402,7 +406,7 @@ papers:
     title: The case for development of an E-cigarette Ontology (E-CigO) to improve quality, efficiency and clarity in the conduct and interpretation of research
     year: '2020'
   cz-hhPUAAAAJ:PVgj2kMGcgYC:
-    citations: 1
+    citations: 2
     title: 'Box embeddings for extending ontologies: a data-driven and interpretable approach'
     year: '2025'
   cz-hhPUAAAAJ:PaBasH6fAo0C:
@@ -438,7 +442,7 @@ papers:
     title: A Comparative Performance Analysis of Regular Expressions and an LLM-Based Approach to Extract the BI-RADS Score from Radiological Reports
     year: '2025'
   cz-hhPUAAAAJ:SdhP9T11ey4C:
-    citations: 147
+    citations: 148
     title: 'Delivering Behaviour Change Interventions: Development of a Mode of Delivery Ontology'
     year: '2021'
   cz-hhPUAAAAJ:Se3iqnhoufwC:
@@ -646,7 +650,7 @@ papers:
     title: 'Cross-care: assessing the healthcare implications of pre-training data on language model bias'
     year: '2024'
   cz-hhPUAAAAJ:ce2CqMG-AY4C:
-    citations: 125
+    citations: 128
     title: 'ClassyFire: automated chemical classification with a comprehensive, computable taxonomy.'
     year: '2016'
   cz-hhPUAAAAJ:d1gkVwhDpl0C:
@@ -690,7 +694,7 @@ papers:
     title: A scoping review of ontologies related to human behaviour change
     year: '2019'
   cz-hhPUAAAAJ:eq2jaN3J8jMC:
-    citations: 190
+    citations: 191
     title: 'Representation of behaviour change interventions and their evaluation: Development of the Upper Level of the Behaviour Change Intervention Ontology'
     year: '2021'
   cz-hhPUAAAAJ:f2IySw72cVMC:
@@ -718,7 +722,7 @@ papers:
     title: Requirements for semantic biobanks
     year: '2012'
   cz-hhPUAAAAJ:hCrLmN-GePgC:
-    citations: 19
+    citations: 20
     title: 'When one Logic is Not Enough: Integrating First-order Annotations in OWL Ontologies'
     year: '2022'
   cz-hhPUAAAAJ:hFOr9nPyWt4C:
@@ -750,7 +754,7 @@ papers:
     title: Processes and properties
     year: '2011'
   cz-hhPUAAAAJ:j3f4tGmQtD8C:
-    citations: 222
+    citations: 221
     title: 'UniChem: a unified chemical structure cross-referencing and identifier tracking system'
     year: '2013'
   cz-hhPUAAAAJ:j7_hQOaDUrUC:
@@ -794,7 +798,7 @@ papers:
     title: 'Ontologies for the Behavioural and Social Sciences: Opportunities and Challenges'
     year: '2022'
   cz-hhPUAAAAJ:l7t_Zn2s7bgC:
-    citations: 44
+    citations: 45
     title: Perspectives from the NanoSafety Modelling Cluster on the validation criteria for (Q) SAR models used in nanotechnology
     year: '2018'
   cz-hhPUAAAAJ:ldfaerwXgEUC:
@@ -802,7 +806,7 @@ papers:
     title: 'The first eNanoMapper prototype: A substance database to support safe-by-design'
     year: '2014'
   cz-hhPUAAAAJ:lgwcVrK6X84C:
-    citations: 2
+    citations: 3
     title: 'Automated gene identification in oncology literature: a comparative evaluation of natural language processing approaches'
     year: '2025'
   cz-hhPUAAAAJ:mB3voiENLucC:
@@ -834,7 +838,7 @@ papers:
     title: 'The EU AI Act: implications and compliance guidance for healthcare facilities'
     year: '2026'
   cz-hhPUAAAAJ:p2g8aNsByqUC:
-    citations: 98
+    citations: 99
     title: Primer on ontologies
     year: '2017'
   cz-hhPUAAAAJ:p__nRnzSRKYC:
@@ -898,7 +902,7 @@ papers:
     title: 'Learning chemistry: exploring the suitability of machine learning for the task of structure-based chemical ontology classification'
     year: '2021'
   cz-hhPUAAAAJ:tYavs44e6CUC:
-    citations: 1766
+    citations: 1773
     title: 'ClassyFire: automated chemical classification with a comprehensive, computable taxonomy'
     year: '2016'
   cz-hhPUAAAAJ:tkaPQYYpVKoC:
@@ -910,7 +914,7 @@ papers:
     title: 'Chemical entities of biological interest: an update'
     year: '2010'
   cz-hhPUAAAAJ:u5HHmVD_uO8C:
-    citations: 1553
+    citations: 1555
     title: 'ChEBI: a database and ontology for chemical entities of biological interest'
     year: '2007'
   cz-hhPUAAAAJ:uDGL6kOW6j0C:
@@ -934,7 +938,7 @@ papers:
     title: 'Knowledge graphs for the life sciences: Recent developments, challenges and opportunities'
     year: '2023'
   cz-hhPUAAAAJ:v1_lew4L6wgC:
-    citations: 1
+    citations: 2
     title: Large language models for detection of genetic variants in biomedical literature
     year: '2025'
   cz-hhPUAAAAJ:vRqMK49ujn8C:
@@ -944,10 +948,6 @@ papers:
   cz-hhPUAAAAJ:wKETBy42zhYC:
     citations: 1
     title: 'Advancing Behavioural and Social Sciences through Ontologies: Protocol for the APRICOT Project'
-    year: '2025'
-  cz-hhPUAAAAJ:wMgC3FpKEyYC:
-    citations: 0
-    title: 'Variantscape: Using Large Language Models to Build a Comprehensive Landscape of Cancer Variants for Precision Oncology'
     year: '2025'
   cz-hhPUAAAAJ:xtoqd-5pKcoC:
     citations: 49
