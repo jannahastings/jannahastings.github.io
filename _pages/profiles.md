@@ -70,4 +70,12 @@ profiles:
       <p>Berlin</p>
       <p>Germany</p>
 
+  - align: right
+    image: anna-pic.jpg
+    content: about_anna.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>St. Gallen</p>
+      <p>Switzerland</p>
+
 ---
