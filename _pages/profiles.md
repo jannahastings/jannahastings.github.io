@@ -63,6 +63,14 @@ profiles:
       <p>London, UK</p>
 
   - align: left
+    image: anna-pic.jpg
+    content: about_anna.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>St. Gallen</p>
+      <p>Switzerland</p>
+
+  - align: right
     image: paula-pic.jpg
     content: about_paula.md
     image_circular: false # crops the image to make it circular
@@ -70,12 +78,5 @@ profiles:
       <p>Berlin</p>
       <p>Germany</p>
 
-  - align: right
-    image: anna-pic.jpg
-    content: about_anna.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>St. Gallen</p>
-      <p>Switzerland</p>
 
 ---
