@@ -3,12 +3,12 @@ layout: post
 title: HCHAI went to ECCB 2026!
 date: 2026-09-04 
 inline: false
-img: assets/img/eccb_2026.png
+img: ../assets/img/eccb_2026.png
 related_posts: false
 ---
 Janna, Miranda, and Charlotte went to ECCB 2026 in Geneva, Switzerland to learn about the latest research in bioinformatics and computational biology. Miranda and Charlotte also presented their research in form of posters, which led to fruitful discussion with other researchers. Miranda presented *Give your Metabolites Significance*. Charlotte presented *Comparative methods for RNA Secondary Structure Prediction in RNA Viruses*.
 
-![poster](assets/img/poster_eccb26)
+![poster](../assets/img/poster_eccb26)
 "**Give your Metabolites Significance** by Miranda and **Comparative methods for RNA Secondary Structure Prediction in RNA Viruses** by Charlotte"
 
 Miranda joined the volunteering team to help ensuring a smooth conference.
