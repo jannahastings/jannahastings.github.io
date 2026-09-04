@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Join us for the IDIAP open day on the 7th of September 2026! 
+title: Join us for the IDIAP open day on the 12th of September 2026! 
 date: 2026-09-04 
 inline: false
 related_posts: false
