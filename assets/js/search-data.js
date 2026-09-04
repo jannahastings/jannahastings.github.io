@@ -427,6 +427,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260701/";
+            },},{id: "news-join-us-for-the-idiap-open-day-on-the-7th-of-september-2026",
+          title: 'Join us for the IDIAP open day on the 7th of September 2026!...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20260904/";
             },},{id: "projects-galenos",
           title: 'GALENOS',
           description: "A new living evidence resource of early phase research for research prioritisation in mental health",
