@@ -1,0 +1,3885 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "cz-hhPUAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Janna Hastings",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cz-hhPUAAAAJ&citpid=7",
+  "affiliation": "Idiap Research Institute, Swiss Institute of Bioinformatics",
+  "organization": 1100755567627873932,
+  "interests": [
+    "Human-Centered Health AI",
+    "Artificial Intelligence",
+    "LLMs",
+    "Ontologies",
+    "Bioinformatics"
+  ],
+  "email_domain": "@idiap.ch",
+  "homepage": "https://hastingslab.org/",
+  "citedby": 14109,
+  "publications": {
+    "cz-hhPUAAAAJ:tYavs44e6CUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ClassyFire: automated chemical classification with a comprehensive, computable taxonomy",
+        "pub_year": "2016",
+        "citation": "Journal of cheminformatics 8 (1), 61, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:tYavs44e6CUC",
+      "num_citations": 1812,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1446712619198780335,14694480918847692989",
+      "cites_id": [
+        "1446712619198780335",
+        "14694480918847692989"
+      ]
+    },
+    "cz-hhPUAAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ChEBI: a database and ontology for chemical entities of biological interest",
+        "pub_year": "2007",
+        "citation": "Nucleic acids research 36 (suppl_1), D344-D350, 2007"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 1566,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12539491029958784035",
+      "cites_id": [
+        "12539491029958784035"
+      ]
+    },
+    "cz-hhPUAAAAJ:D03iK_w7-QYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ChEBI in 2016: Improved services and an expanding collection of metabolites",
+        "pub_year": "2016",
+        "citation": "Nucleic acids research 44 (D1), D1214-D1219, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:D03iK_w7-QYC",
+      "num_citations": 1375,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12288239562855179347",
+      "cites_id": [
+        "12288239562855179347"
+      ]
+    },
+    "cz-hhPUAAAAJ:TQgYirikUcIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MetaboLights—an open-access general-purpose repository for metabolomics studies and associated meta-data",
+        "pub_year": "2013",
+        "citation": "Nucleic acids research 41 (D1), D781-D786, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:TQgYirikUcIC",
+      "num_citations": 777,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13919622837943688039",
+      "cites_id": [
+        "13919622837943688039"
+      ]
+    },
+    "cz-hhPUAAAAJ:e5wmG9Sq2KIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ChEBI reference database and ontology for biologically relevant chemistry: enhancements for 2013",
+        "pub_year": "2012",
+        "citation": "Nucleic acids research 41 (D1), D456-D463, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 760,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1145660405710879744",
+      "cites_id": [
+        "1145660405710879744"
+      ]
+    },
+    "cz-hhPUAAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical entities of biological interest: an update",
+        "pub_year": "2010",
+        "citation": "Nucleic acids research 38 (suppl_1), D249-D254, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 435,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15384368799381629416",
+      "cites_id": [
+        "15384368799381629416"
+      ]
+    },
+    "cz-hhPUAAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Controlled vocabularies and semantics in systems biology",
+        "pub_year": "2011",
+        "citation": "Molecular systems biology 7, 543, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:qjMakFHDy7sC",
+      "num_citations": 376,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8926426913805005155,11010615881489905885",
+      "cites_id": [
+        "8926426913805005155",
+        "11010615881489905885"
+      ]
+    },
+    "cz-hhPUAAAAJ:9pM33mqn1YgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The behaviour change technique ontology: transforming the behaviour change technique taxonomy v1",
+        "pub_year": "2024",
+        "citation": "Wellcome open research 8, 308, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:9pM33mqn1YgC",
+      "num_citations": 297,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5332337430252157655",
+      "cites_id": [
+        "5332337430252157655"
+      ]
+    },
+    "cz-hhPUAAAAJ:j3f4tGmQtD8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "UniChem: a unified chemical structure cross-referencing and identifier tracking system",
+        "pub_year": "2013",
+        "citation": "Journal of cheminformatics 5 (1), 3, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:j3f4tGmQtD8C",
+      "num_citations": 224,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7617527693717584491",
+      "cites_id": [
+        "7617527693717584491"
+      ]
+    },
+    "cz-hhPUAAAAJ:ODE9OILHJdcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Title and abstract screening for literature reviews using large language models: an exploratory study in the biomedical domain",
+        "pub_year": "2024",
+        "citation": "Systematic Reviews 13 (1), 1-14, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:ODE9OILHJdcC",
+      "num_citations": 202,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5103574693289834397",
+      "cites_id": [
+        "5103574693289834397"
+      ]
+    },
+    "cz-hhPUAAAAJ:eq2jaN3J8jMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Representation of behaviour change interventions and their evaluation: Development of the Upper Level of the Behaviour Change Intervention Ontology",
+        "pub_year": "2021",
+        "citation": "Wellcome open research 5, 123, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:eq2jaN3J8jMC",
+      "num_citations": 193,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6319652889978814668,3348880577883003199",
+      "cites_id": [
+        "6319652889978814668",
+        "3348880577883003199"
+      ]
+    },
+    "cz-hhPUAAAAJ:WbkHhVStYXYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifiers for the 21st century: How to design, provision, and reuse persistent identifiers to maximize utility and impact of life science data",
+        "pub_year": "2017",
+        "citation": "PLoS biology 15 (6), e2001414, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:WbkHhVStYXYC",
+      "num_citations": 191,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12159039865846410354",
+      "cites_id": [
+        "12159039865846410354"
+      ]
+    },
+    "cz-hhPUAAAAJ:F1b5ZUV5XREC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementing large language models in healthcare while balancing control, collaboration, costs and security",
+        "pub_year": "2025",
+        "citation": "NPJ digital medicine 8 (1), 143, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:F1b5ZUV5XREC",
+      "num_citations": 182,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15620563311139553749",
+      "cites_id": [
+        "15620563311139553749"
+      ]
+    },
+    "cz-hhPUAAAAJ:EkHepimYqZsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Introducing the Open Energy Ontology: Enhancing data interpretation and interfacing in energy systems analysis",
+        "pub_year": "2021",
+        "citation": "Energy and AI 5, 100074, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:EkHepimYqZsC",
+      "num_citations": 177,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10985200504058512161,13110325171839210711,6193050263194976124",
+      "cites_id": [
+        "10985200504058512161",
+        "13110325171839210711",
+        "6193050263194976124"
+      ]
+    },
+    "cz-hhPUAAAAJ:M3NEmzRMIkIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ChEMBL database as linked open data",
+        "pub_year": "2013",
+        "citation": "Journal of cheminformatics 5 (1), 23, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:M3NEmzRMIkIC",
+      "num_citations": 167,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1029919691588310633",
+      "cites_id": [
+        "1029919691588310633"
+      ]
+    },
+    "cz-hhPUAAAAJ:DUooU5lO8OsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experience of health care professionals using digital tools in the hospital: qualitative systematic review",
+        "pub_year": "2023",
+        "citation": "JMIR human factors 10 (1), e50357, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:DUooU5lO8OsC",
+      "num_citations": 160,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13325313515590274711,3147212382078958593,7251724761183629485",
+      "cites_id": [
+        "13325313515590274711",
+        "3147212382078958593",
+        "7251724761183629485"
+      ]
+    },
+    "cz-hhPUAAAAJ:cFHS6HbyZ2cC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The eNanoMapper database for nanomaterial safety information",
+        "pub_year": "2015",
+        "citation": "Beilstein journal of nanotechnology 6 (1), 1609-1634, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 158,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6279531059910223361",
+      "cites_id": [
+        "6279531059910223361"
+      ]
+    },
+    "cz-hhPUAAAAJ:dfsIfKJdRG4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PubChemRDF: towards the semantic annotation of PubChem compound and substance databases",
+        "pub_year": "2015",
+        "citation": "Journal of cheminformatics 7 (1), 34, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:dfsIfKJdRG4C",
+      "num_citations": 154,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5171752062698925747",
+      "cites_id": [
+        "5171752062698925747"
+      ]
+    },
+    "cz-hhPUAAAAJ:W7OEmFMy1HYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The chemical information ontology: provenance and disambiguation for chemical data on the biological semantic web",
+        "pub_year": "2011",
+        "citation": "PloS one 6 (10), e25513, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 151,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5268873651066735902,16175278121421686790",
+      "cites_id": [
+        "5268873651066735902",
+        "16175278121421686790"
+      ]
+    },
+    "cz-hhPUAAAAJ:SdhP9T11ey4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Delivering Behaviour Change Interventions: Development of a Mode of Delivery Ontology",
+        "pub_year": "2021",
+        "citation": "Wellcome open research 5, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:SdhP9T11ey4C",
+      "num_citations": 150,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14771416956961479433",
+      "cites_id": [
+        "14771416956961479433"
+      ]
+    },
+    "cz-hhPUAAAAJ:bFI3QPDXJZMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Data standards can boost metabolomics research, and if there is a will, there is a way",
+        "pub_year": "2016",
+        "citation": "Metabolomics 12 (1), 14, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 150,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16146727872480064728",
+      "cites_id": [
+        "16146727872480064728"
+      ]
+    },
+    "cz-hhPUAAAAJ:ce2CqMG-AY4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ClassyFire: automated chemical classification with a comprehensive, computable taxonomy.",
+        "pub_year": "2016",
+        "citation": "Journal of Cheminformatics 8, 61-61, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:ce2CqMG-AY4C",
+      "num_citations": 143,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17982219226918287882",
+      "cites_id": [
+        "17982219226918287882"
+      ]
+    },
+    "cz-hhPUAAAAJ:L7CI7m0gUJcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nuclear and cytoplasmic huntingtin inclusions exhibit distinct biochemical composition, interactome and ultrastructural properties",
+        "pub_year": "2021",
+        "citation": "Nature communications 12 (1), 6579, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:L7CI7m0gUJcC",
+      "num_citations": 142,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6282295210083208189,17695713540574104503,8645779135115121825",
+      "cites_id": [
+        "6282295210083208189",
+        "17695713540574104503",
+        "8645779135115121825"
+      ]
+    },
+    "cz-hhPUAAAAJ:V3AGJWp-ZtQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of a formal system for representing behaviour-change theories",
+        "pub_year": "2019",
+        "citation": "Nature human behaviour 3 (5), 526-536, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 132,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18327726365906649601",
+      "cites_id": [
+        "18327726365906649601"
+      ]
+    },
+    "cz-hhPUAAAAJ:ZHo1McVdvXMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "eNanoMapper: harnessing ontologies to enable data integration for nanomaterial risk assessment",
+        "pub_year": "2015",
+        "citation": "Journal of biomedical semantics 6 (1), 10, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:ZHo1McVdvXMC",
+      "num_citations": 120,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13834819785540490564",
+      "cites_id": [
+        "13834819785540490564"
+      ]
+    },
+    "cz-hhPUAAAAJ:p2g8aNsByqUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Primer on ontologies",
+        "pub_year": "2017",
+        "citation": "The Gene Ontology Handbook, 3-13, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:p2g8aNsByqUC",
+      "num_citations": 99,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5200417731499182412",
+      "cites_id": [
+        "5200417731499182412"
+      ]
+    },
+    "cz-hhPUAAAAJ:eflP2zaiRacC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A scoping review of ontologies related to human behaviour change",
+        "pub_year": "2019",
+        "citation": "Nature human behaviour 3 (2), 164-172, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:eflP2zaiRacC",
+      "num_citations": 96,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9071442197857300578,1540810034373772108",
+      "cites_id": [
+        "9071442197857300578",
+        "1540810034373772108"
+      ]
+    },
+    "cz-hhPUAAAAJ:L8Ckcad2t8MC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Representing mental functioning: Ontologies for mental health and disease",
+        "pub_year": "2012",
+        "citation": "International Conference on Biomedical Ontologies, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:L8Ckcad2t8MC",
+      "num_citations": 96,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1588585710780614245",
+      "cites_id": [
+        "1588585710780614245"
+      ]
+    },
+    "cz-hhPUAAAAJ:WJVC3Jt7v1AC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preventing harm from non-conscious bias in medical generative AI",
+        "pub_year": "2024",
+        "citation": "The Lancet Digital Health 6 (1), e2-e3, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:WJVC3Jt7v1AC",
+      "num_citations": 87,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4103300313198469809",
+      "cites_id": [
+        "4103300313198469809"
+      ]
+    },
+    "cz-hhPUAAAAJ:_FM0Bhl9EiAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Basic Formal Ontology 2.0: Specification and user’s guide",
+        "pub_year": "2015",
+        "citation": "National Center for Ontological Research: Buffalo, NY, USA, 50, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:_FM0Bhl9EiAC",
+      "num_citations": 86,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17488410430910910184,15109060837502937184",
+      "cites_id": [
+        "17488410430910910184",
+        "15109060837502937184"
+      ]
+    },
+    "cz-hhPUAAAAJ:_kc_bZDykSQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Structure-based classification and ontology in chemistry",
+        "pub_year": "2012",
+        "citation": "Journal of cheminformatics 4 (1), 8, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:_kc_bZDykSQC",
+      "num_citations": 80,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7054528818395026638",
+      "cites_id": [
+        "7054528818395026638"
+      ]
+    },
+    "cz-hhPUAAAAJ:NMxIlDl6LWMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dovetailing biology and chemistry: integrating the Gene Ontology with the ChEBI chemical ontology",
+        "pub_year": "2013",
+        "citation": "BMC genomics 14 (1), 513, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:NMxIlDl6LWMC",
+      "num_citations": 79,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14257106787152057018",
+      "cites_id": [
+        "14257106787152057018"
+      ]
+    },
+    "cz-hhPUAAAAJ:VL0QpB8kHFEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An ontology-based modelling system (OBMS) for representing behaviour change theories applied to 76 theories",
+        "pub_year": "2020",
+        "citation": "Wellcome Open Research 5, 177, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:VL0QpB8kHFEC",
+      "num_citations": 76,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16736087650501276518",
+      "cites_id": [
+        "16736087650501276518"
+      ]
+    },
+    "cz-hhPUAAAAJ:fPk4N6BV_jEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DINTO: using OWL ontologies and SWRL rules to infer drug–drug interactions and their mechanisms",
+        "pub_year": "2015",
+        "citation": "Journal of chemical information and modeling 55 (8), 1698-1707, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:fPk4N6BV_jEC",
+      "num_citations": 76,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14487152750875477476",
+      "cites_id": [
+        "14487152750875477476"
+      ]
+    },
+    "cz-hhPUAAAAJ:q3oQSFYPqjQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multi-omics and genome-scale modeling reveal a metabolic shift during C. elegans aging",
+        "pub_year": "2019",
+        "citation": "Frontiers in Molecular Biosciences 6, 2, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:q3oQSFYPqjQC",
+      "num_citations": 75,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5062390111305570231",
+      "cites_id": [
+        "5062390111305570231"
+      ]
+    },
+    "cz-hhPUAAAAJ:9vf0nzSNQJEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of an Intervention Setting Ontology for behaviour change: Specifying where interventions take place",
+        "pub_year": "2020",
+        "citation": "Wellcome open research 5, 124, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:9vf0nzSNQJEC",
+      "num_citations": 74,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9575649375278573614,3278188525221286161",
+      "cites_id": [
+        "9575649375278573614",
+        "3278188525221286161"
+      ]
+    },
+    "cz-hhPUAAAAJ:4fGpz3EwCPoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An ontology of mechanisms of action in behaviour change interventions",
+        "pub_year": "2024",
+        "citation": "Wellcome Open Research 8, 337, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:4fGpz3EwCPoC",
+      "num_citations": 72,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7592789324588939481",
+      "cites_id": [
+        "7592789324588939481"
+      ]
+    },
+    "cz-hhPUAAAAJ:maZDTaKrznsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The MetaboLights repository: curation challenges in metabolomics",
+        "pub_year": "2013",
+        "citation": "Database 2013, bat029, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:maZDTaKrznsC",
+      "num_citations": 71,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7775611845836137050",
+      "cites_id": [
+        "7775611845836137050"
+      ]
+    },
+    "cz-hhPUAAAAJ:_FxGoFyzp5QC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The emotion ontology: enabling interdisciplinary research in the affective sciences",
+        "pub_year": "2011",
+        "citation": "International and interdisciplinary conference on modeling and using context …, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 70,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9824425316119065963",
+      "cites_id": [
+        "9824425316119065963"
+      ]
+    },
+    "cz-hhPUAAAAJ:d1gkVwhDpl0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ChEBI: an open bioinformatics and cheminformatics resource",
+        "pub_year": "2009",
+        "citation": "Current protocols in bioinformatics 26 (1), 14.9. 1-14.9. 20, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 69,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2190288680974087589",
+      "cites_id": [
+        "2190288680974087589"
+      ]
+    },
+    "cz-hhPUAAAAJ:roLk4NBRz8UC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ChEBI: a chemistry ontology and database",
+        "pub_year": "2010",
+        "citation": "Journal of cheminformatics 2 (Suppl 1), P6, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:roLk4NBRz8UC",
+      "num_citations": 65,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11989792815328415556",
+      "cites_id": [
+        "11989792815328415556"
+      ]
+    },
+    "cz-hhPUAAAAJ:iH-uZ7U-co4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FMCS: a novel algorithm for the multiple MCS problem",
+        "pub_year": "2013",
+        "citation": "Journal of cheminformatics 5 (Suppl 1), O6, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:iH-uZ7U-co4C",
+      "num_citations": 64,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17900317422135555312",
+      "cites_id": [
+        "17900317422135555312"
+      ]
+    },
+    "cz-hhPUAAAAJ:LkGwnXOMwfcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dispositions and processes in the Emotion Ontology",
+        "pub_year": "2011",
+        "citation": "International Conference on Biomedical Ontologies, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 63,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1229494680405261824",
+      "cites_id": [
+        "1229494680405261824"
+      ]
+    },
+    "cz-hhPUAAAAJ:_5tno0g5mFcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploring capabilities of large language models such as ChatGPT in radiation oncology",
+        "pub_year": "2024",
+        "citation": "Advances in radiation oncology 9 (3), 101400, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:_5tno0g5mFcC",
+      "num_citations": 62,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=978274869825666359",
+      "cites_id": [
+        "978274869825666359"
+      ]
+    },
+    "cz-hhPUAAAAJ:dTyEYWd-f8wC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Human Behaviour-Change Project: An artificial intelligence system to answer questions about changing behaviour",
+        "pub_year": "2020",
+        "citation": "Wellcome open research 5, 122, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:dTyEYWd-f8wC",
+      "num_citations": 62,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8351335559460040742",
+      "cites_id": [
+        "8351335559460040742"
+      ]
+    },
+    "cz-hhPUAAAAJ:JoZmwDi-zQgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ontologies relevant to behaviour change interventions: a method for their development",
+        "pub_year": "2020",
+        "citation": "Wellcome open research 5, 126, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:JoZmwDi-zQgC",
+      "num_citations": 61,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7250477074752451165,14547842609786697323",
+      "cites_id": [
+        "7250477074752451165",
+        "14547842609786697323"
+      ]
+    },
+    "cz-hhPUAAAAJ:BJbdYPG6LGMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Finding consensus on trust in AI in health care: recommendations from a panel of international experts",
+        "pub_year": "2025",
+        "citation": "Journal of medical Internet research 27, e56306, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:BJbdYPG6LGMC",
+      "num_citations": 57,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9553080080567408582",
+      "cites_id": [
+        "9553080080567408582"
+      ]
+    },
+    "cz-hhPUAAAAJ:umqufdRvDiIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Knowledge graphs for the life sciences: Recent developments, challenges and opportunities",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2309.17255, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:umqufdRvDiIC",
+      "num_citations": 57,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9732305690080751163,13996150630393495229",
+      "cites_id": [
+        "9732305690080751163",
+        "13996150630393495229"
+      ]
+    },
+    "cz-hhPUAAAAJ:4DMP91E08xMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toxicology ontology perspectives",
+        "pub_year": "2012",
+        "citation": "Altex 29 (2), 139-156, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:4DMP91E08xMC",
+      "num_citations": 56,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2677420338376226995",
+      "cites_id": [
+        "2677420338376226995"
+      ]
+    },
+    "cz-hhPUAAAAJ:HoB7MX3m0LUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BiNChE: a web tool and library for chemical enrichment analysis based on the ChEBI ontology",
+        "pub_year": "2015",
+        "citation": "BMC bioinformatics 16 (1), 56, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:HoB7MX3m0LUC",
+      "num_citations": 54,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10141063793250768196",
+      "cites_id": [
+        "10141063793250768196"
+      ]
+    },
+    "cz-hhPUAAAAJ:86PQX7AUzd4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ontology development is consensus creation, not (merely) representation",
+        "pub_year": "2022",
+        "citation": "Applied ontology 17 (4), 495-513, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:86PQX7AUzd4C",
+      "num_citations": 51,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4239592568048368702",
+      "cites_id": [
+        "4239592568048368702"
+      ]
+    },
+    "cz-hhPUAAAAJ:ipzZ9siozwsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Specifying who delivers behaviour change interventions: development of an Intervention Source Ontology",
+        "pub_year": "2021",
+        "citation": "Wellcome open research 6, 77, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:ipzZ9siozwsC",
+      "num_citations": 51,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4065810108168870508",
+      "cites_id": [
+        "4065810108168870508"
+      ]
+    },
+    "cz-hhPUAAAAJ:xtoqd-5pKcoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Behaviour change techniques taxonomy v1: Feedback to inform the development of an ontology",
+        "pub_year": "2023",
+        "citation": "Wellcome open research 7, 211, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:xtoqd-5pKcoC",
+      "num_citations": 50,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1786853593280637716,7491220235899040967",
+      "cites_id": [
+        "1786853593280637716",
+        "7491220235899040967"
+      ]
+    },
+    "cz-hhPUAAAAJ:_B80troHkn4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Theory and ontology in behavioural science",
+        "pub_year": "2020",
+        "citation": "Nature human behaviour 4 (3), 226-226, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:_B80troHkn4C",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17315677126451675171",
+      "cites_id": [
+        "17315677126451675171"
+      ]
+    },
+    "cz-hhPUAAAAJ:HDshCWvjkbEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cheminformatics",
+        "pub_year": "2012",
+        "citation": "Communications of the ACM 55 (11), 65-75, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:HDshCWvjkbEC",
+      "num_citations": 49,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4020875001384982643,2863171388971595332",
+      "cites_id": [
+        "4020875001384982643",
+        "2863171388971595332"
+      ]
+    },
+    "cz-hhPUAAAAJ:VaXvl8Fpj5cC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "More phenomenology in psychiatry? Applied ontology as a method towards integration",
+        "pub_year": "2022",
+        "citation": "The Lancet Psychiatry 9 (9), 751-758, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:VaXvl8Fpj5cC",
+      "num_citations": 48,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1584908702541303538",
+      "cites_id": [
+        "1584908702541303538"
+      ]
+    },
+    "cz-hhPUAAAAJ:tKAzc9rXhukC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Learning chemistry: exploring the suitability of machine learning for the task of structure-based chemical ontology classification",
+        "pub_year": "2021",
+        "citation": "Journal of Cheminformatics 13 (1), 23, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:tKAzc9rXhukC",
+      "num_citations": 48,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11751969591941840670",
+      "cites_id": [
+        "11751969591941840670"
+      ]
+    },
+    "cz-hhPUAAAAJ:35N4QoGY0k4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interdisciplinary perspectives on the development, integration, and application of cognitive ontologies",
+        "pub_year": "2014",
+        "citation": "Frontiers in neuroinformatics 8, 62, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:35N4QoGY0k4C",
+      "num_citations": 48,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14426353548896352250",
+      "cites_id": [
+        "14426353548896352250"
+      ]
+    },
+    "cz-hhPUAAAAJ:LPZeul_q3PIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modeling meets metabolomics—the WormJam consensus model as basis for metabolic studies in the model organism Caenorhabditis elegans",
+        "pub_year": "2018",
+        "citation": "Frontiers in molecular biosciences 5, 96, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:LPZeul_q3PIC",
+      "num_citations": 46,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5776883244857169105",
+      "cites_id": [
+        "5776883244857169105"
+      ]
+    },
+    "cz-hhPUAAAAJ:l7t_Zn2s7bgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perspectives from the NanoSafety Modelling Cluster on the validation criteria for (Q) SAR models used in nanotechnology",
+        "pub_year": "2018",
+        "citation": "Food and Chemical Toxicology 112, 478-494, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16978055102671050486",
+      "cites_id": [
+        "16978055102671050486"
+      ]
+    },
+    "cz-hhPUAAAAJ:qxL8FJ1GzNcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A toxicology ontology roadmap",
+        "pub_year": "2012",
+        "citation": "ALTEX-Alternatives to animal experimentation 29 (2), 129-137, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3581730890012380938",
+      "cites_id": [
+        "3581730890012380938"
+      ]
+    },
+    "cz-hhPUAAAAJ:Zph67rFs4hoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Three hybrid classifiers for the detection of emotions in suicide notes",
+        "pub_year": "2012",
+        "citation": "Biomedical informatics insights 5, BII. S8967, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:Zph67rFs4hoC",
+      "num_citations": 45,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18023068559413295068",
+      "cites_id": [
+        "18023068559413295068"
+      ]
+    },
+    "cz-hhPUAAAAJ:a0OBvERweLwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Harmonising and linking biomedical and clinical data across disparate data archives to enable integrative cross-biobank research",
+        "pub_year": "2016",
+        "citation": "European Journal of Human Genetics 24 (4), 521-528, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:a0OBvERweLwC",
+      "num_citations": 42,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4552153032703886522",
+      "cites_id": [
+        "4552153032703886522"
+      ]
+    },
+    "cz-hhPUAAAAJ:AXPGKjj_ei8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Creating ontological definitions for use in science",
+        "pub_year": "2019",
+        "citation": "Qeios, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:AXPGKjj_ei8C",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12419070151305205462",
+      "cites_id": [
+        "12419070151305205462"
+      ]
+    },
+    "cz-hhPUAAAAJ:geHnlv5EZngC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "From affective science to psychiatric disorder: Ontology as a semantic bridge",
+        "pub_year": "2018",
+        "citation": "Frontiers in psychiatry 9, 487, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:geHnlv5EZngC",
+      "num_citations": 41,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14159143415427013324",
+      "cites_id": [
+        "14159143415427013324"
+      ]
+    },
+    "cz-hhPUAAAAJ:35r97b3x0nAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Why and how to engage expert stakeholders in ontology development: insights from social and behavioural sciences",
+        "pub_year": "2021",
+        "citation": "Journal of Biomedical Semantics 12 (1), 4, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:35r97b3x0nAC",
+      "num_citations": 39,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2732004605114524913",
+      "cites_id": [
+        "2732004605114524913"
+      ]
+    },
+    "cz-hhPUAAAAJ:UebtZRa9Y70C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A database for chemical proteomics: ChEBI",
+        "pub_year": "2011",
+        "citation": "Chemical Proteomics: Methods and Protocols, 273-296, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:UebtZRa9Y70C",
+      "num_citations": 37,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10806822957192144751",
+      "cites_id": [
+        "10806822957192144751"
+      ]
+    },
+    "cz-hhPUAAAAJ:sNmaIFBj_lkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Specifying how intervention content is communicated: development of a style of delivery ontology",
+        "pub_year": "2023",
+        "citation": "Wellcome open research 8, 456, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:sNmaIFBj_lkC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6808893498159812486,11181531424373288145",
+      "cites_id": [
+        "6808893498159812486",
+        "11181531424373288145"
+      ]
+    },
+    "cz-hhPUAAAAJ:KbBQZpvPDL4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The paradoxes of digital tools in hospitals: qualitative interview study",
+        "pub_year": "2024",
+        "citation": "Journal of Medical Internet Research 26, e56095, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:KbBQZpvPDL4C",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9282973270025473141",
+      "cites_id": [
+        "9282973270025473141"
+      ]
+    },
+    "cz-hhPUAAAAJ:BqipwSGYUEgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploiting disjointness axioms to improve semantic similarity measures",
+        "pub_year": "2013",
+        "citation": "Bioinformatics 29 (21), 2781-2787, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:BqipwSGYUEgC",
+      "num_citations": 31,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=492087266593442408",
+      "cites_id": [
+        "492087266593442408"
+      ]
+    },
+    "cz-hhPUAAAAJ:mNrWkgRL2YcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An ontological framework for organising and describing behaviours: The Human Behaviour Ontology",
+        "pub_year": "2025",
+        "citation": "Wellcome Open Research 9, 237, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:mNrWkgRL2YcC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10428827770053247574,10643021618756411224,16953836814520482703",
+      "cites_id": [
+        "10428827770053247574",
+        "10643021618756411224",
+        "16953836814520482703"
+      ]
+    },
+    "cz-hhPUAAAAJ:CHSYGLWDkRkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "libChEBI: an API for accessing the ChEBI database",
+        "pub_year": "2016",
+        "citation": "Journal of Cheminformatics 8 (1), 11, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12607332007614870678",
+      "cites_id": [
+        "12607332007614870678"
+      ]
+    },
+    "cz-hhPUAAAAJ:9yKSN-GCB0IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Representing Chemicals Using OWL, Description Graphs and Rules.",
+        "pub_year": "2010",
+        "citation": "OWLED 614, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5403544835514245911",
+      "cites_id": [
+        "5403544835514245911"
+      ]
+    },
+    "cz-hhPUAAAAJ:dBIO0h50nwkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Trace amine-associated receptor 1 (TAAR1) agonism for psychosis: a living systematic review and meta-analysis of human and non-human data",
+        "pub_year": "2024",
+        "citation": "Wellcome open research 9, 182, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:dBIO0h50nwkC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11348084778411011900",
+      "cites_id": [
+        "11348084778411011900"
+      ]
+    },
+    "cz-hhPUAAAAJ:q3CdL3IzO_QC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Developing and using ontologies in behavioural science: addressing issues raised",
+        "pub_year": "2023",
+        "citation": "Wellcome open research 7, 222, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:q3CdL3IzO_QC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12390682676383972705",
+      "cites_id": [
+        "12390682676383972705"
+      ]
+    },
+    "cz-hhPUAAAAJ:3fE2CSJIrl8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Self-organizing ontology of biochemically relevant small molecules",
+        "pub_year": "2012",
+        "citation": "BMC bioinformatics 13 (1), 3, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14358549429115837450",
+      "cites_id": [
+        "14358549429115837450"
+      ]
+    },
+    "cz-hhPUAAAAJ:anf4URPfarAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "New living evidence resource of human and non-human studies for early intervention and research prioritisation in anxiety, depression and psychosis",
+        "pub_year": "2023",
+        "citation": "BMJ mental health 26 (1), e300759, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:anf4URPfarAC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12994344570558730423",
+      "cites_id": [
+        "12994344570558730423"
+      ]
+    },
+    "cz-hhPUAAAAJ:bz8QjSJIRt4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AI for scientific discovery",
+        "pub_year": "2023",
+        "citation": "CRC Press, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:bz8QjSJIRt4C",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3460225750235769105",
+      "cites_id": [
+        "3460225750235769105"
+      ]
+    },
+    "cz-hhPUAAAAJ:GtLg2Ama23sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Using machine learning to extract information and predict outcomes from reports of randomised trials of smoking cessation interventions in the Human Behaviour-Change Project",
+        "pub_year": "2024",
+        "citation": "Wellcome open research 8, 452, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:GtLg2Ama23sC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9448585229412262786",
+      "cites_id": [
+        "9448585229412262786"
+      ]
+    },
+    "cz-hhPUAAAAJ:b1wdh0AR-JQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interpretable Ontology Extension in Chemistry",
+        "pub_year": "2024",
+        "citation": "Semantic Web Journal 15 (4), 937-958, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:b1wdh0AR-JQC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8615173222992513522",
+      "cites_id": [
+        "8615173222992513522"
+      ]
+    },
+    "cz-hhPUAAAAJ:5nxA0vEk-isC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Unintended consequences of existential quantifications in biomedical ontologies",
+        "pub_year": "2011",
+        "citation": "BMC bioinformatics 12 (1), 456, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:5nxA0vEk-isC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=740118301142323168",
+      "cites_id": [
+        "740118301142323168"
+      ]
+    },
+    "cz-hhPUAAAAJ:Dip1O2bNi0gC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toward an ontology of tobacco, nicotine and vaping products",
+        "pub_year": "2023",
+        "citation": "Addiction 118 (1), 177-188, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:Dip1O2bNi0gC",
+      "num_citations": 23,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7679008986292993383",
+      "cites_id": [
+        "7679008986292993383"
+      ]
+    },
+    "cz-hhPUAAAAJ:6ZxmRoH8BuwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Predicting outcomes of smoking cessation interventions in novel scenarios using ontology-informed, interpretable machine learning",
+        "pub_year": "2025",
+        "citation": "Wellcome Open Research 8, 503, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:6ZxmRoH8BuwC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12602601568765737934",
+      "cites_id": [
+        "12602601568765737934"
+      ]
+    },
+    "cz-hhPUAAAAJ:cWzG1nlazyYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cross-care: assessing the healthcare implications of pre-training data on language model bias",
+        "pub_year": "2024",
+        "citation": "Advances in neural information processing systems 37, 23756-23795, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:cWzG1nlazyYC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17414268944667691100",
+      "cites_id": [
+        "17414268944667691100"
+      ]
+    },
+    "cz-hhPUAAAAJ:j8SEvjWlNXcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Addiction Ontology: Applying Basic Formal Ontology in the addiction domain",
+        "pub_year": "2020",
+        "citation": "Qeios, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:j8SEvjWlNXcC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16855046209415044990",
+      "cites_id": [
+        "16855046209415044990"
+      ]
+    },
+    "cz-hhPUAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ontological dependence, dispositions and institutional reality in chemistry",
+        "pub_year": "2010",
+        "citation": "Formal Ontology in Information Systems: Proceedings of the Sixth …, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14789964283099125704",
+      "cites_id": [
+        "14789964283099125704"
+      ]
+    },
+    "cz-hhPUAAAAJ:hCrLmN-GePgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "When one Logic is Not Enough: Integrating First-order Annotations in OWL Ontologies",
+        "pub_year": "2022",
+        "citation": "Semantic Web Journal, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:hCrLmN-GePgC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3798899399715198449",
+      "cites_id": [
+        "3798899399715198449"
+      ]
+    },
+    "cz-hhPUAAAAJ:BrmTIyaxlBUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Addiction Theories and Constructs: a new series",
+        "pub_year": "2019",
+        "citation": "Addiction 114 (6), 955-956, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:BrmTIyaxlBUC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14698942862167652662,4307080447402893479",
+      "cites_id": [
+        "14698942862167652662",
+        "4307080447402893479"
+      ]
+    },
+    "cz-hhPUAAAAJ:K3LRdlH-MEoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "WormJam: A consensus C. elegans Metabolic Reconstruction and Metabolomics Community and Workshop Series",
+        "pub_year": "2017",
+        "citation": "Worm 6 (2), e1373939, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:K3LRdlH-MEoC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16826551884509946925",
+      "cites_id": [
+        "16826551884509946925"
+      ]
+    },
+    "cz-hhPUAAAAJ:ldfaerwXgEUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The first eNanoMapper prototype: A substance database to support safe-by-design",
+        "pub_year": "2014",
+        "citation": "2014 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 1-9, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:ldfaerwXgEUC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=996954606669667793",
+      "cites_id": [
+        "996954606669667793"
+      ]
+    },
+    "cz-hhPUAAAAJ:70eg2SAEIzsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluating the Emotion Ontology through use in the self-reporting of emotional responses at an academic conference",
+        "pub_year": "2014",
+        "citation": "Journal of biomedical semantics 5 (1), 38, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:70eg2SAEIzsC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13647326451967408035",
+      "cites_id": [
+        "13647326451967408035"
+      ]
+    },
+    "cz-hhPUAAAAJ:RYcK_YlVTxYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An ontology for drug-drug interactions",
+        "pub_year": "2014",
+        "citation": "CEUR, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:RYcK_YlVTxYC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17239365811638250817",
+      "cites_id": [
+        "17239365811638250817"
+      ]
+    },
+    "cz-hhPUAAAAJ:LhH-TYMQEocC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Applying large language models to interpret qualitative interviews in healthcare",
+        "pub_year": "2024",
+        "citation": "Digital Health and Informatics Innovations for Sustainable Health Care …, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:LhH-TYMQEocC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17645536150908882501",
+      "cites_id": [
+        "17645536150908882501"
+      ]
+    },
+    "cz-hhPUAAAAJ:2P1L_qKh6hAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ten recommendations for software engineering in research",
+        "pub_year": "2014",
+        "citation": "GigaScience 3 (1), 2047-217X-3-31, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:2P1L_qKh6hAC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16744692619979001538",
+      "cites_id": [
+        "16744692619979001538"
+      ]
+    },
+    "cz-hhPUAAAAJ:QIV2ME_5wuYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modelling highly symmetrical molecules: Linking ontologies and graphs",
+        "pub_year": "2012",
+        "citation": "International Conference on Artificial Intelligence: Methodology, Systems …, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7875779042016262088",
+      "cites_id": [
+        "7875779042016262088"
+      ]
+    },
+    "cz-hhPUAAAAJ:8xutWZnSdmoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The BSSO Foundry: A community of practice for ontologies in the behavioural and social sciences",
+        "pub_year": "2024",
+        "citation": "Wellcome open research 9, 656, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:8xutWZnSdmoC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=376202778748351804,16838696312616332269",
+      "cites_id": [
+        "376202778748351804",
+        "16838696312616332269"
+      ]
+    },
+    "cz-hhPUAAAAJ:9c2xU6iGI7YC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chebifier: Automating semantic classification in ChEBI to accelerate data-driven discovery",
+        "pub_year": "2024",
+        "citation": "Digital Discovery, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:9c2xU6iGI7YC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2181268956086484230",
+      "cites_id": [
+        "2181268956086484230"
+      ]
+    },
+    "cz-hhPUAAAAJ:_axFR9aDTf0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toward an ontology of identity‐related constructs in addiction, with examples from nicotine and tobacco research",
+        "pub_year": "2023",
+        "citation": "Addiction 118 (3), 548-557, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:_axFR9aDTf0C",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7491895783156279711",
+      "cites_id": [
+        "7491895783156279711"
+      ]
+    },
+    "cz-hhPUAAAAJ:BwyfMAYsbu0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Automated and explainable ontology extension based on deep learning: A case study in the chemical domain",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2109.09202, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:BwyfMAYsbu0C",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=817870375399583746",
+      "cites_id": [
+        "817870375399583746"
+      ]
+    },
+    "cz-hhPUAAAAJ:RHpTSmoSYBkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ontologies for human behavior analysis and their application to clinical data",
+        "pub_year": "2012",
+        "citation": "International review of neurobiology 103, 89-107, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:RHpTSmoSYBkC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8809586833820956931",
+      "cites_id": [
+        "8809586833820956931"
+      ]
+    },
+    "cz-hhPUAAAAJ:48xauSegjOkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Decoding the interactions and functions of non-coding RNA with artificial intelligence",
+        "pub_year": "2025",
+        "citation": "Nature Reviews Molecular Cell Biology 26 (10), 797-818, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:48xauSegjOkC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3787638975186488411",
+      "cites_id": [
+        "3787638975186488411"
+      ]
+    },
+    "cz-hhPUAAAAJ:hC7cP41nSMkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Requirements for semantic biobanks",
+        "pub_year": "2012",
+        "citation": "Stud Health Technol Inform 180 (1), 569-73, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:hC7cP41nSMkC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1632685427699687508",
+      "cites_id": [
+        "1632685427699687508"
+      ]
+    },
+    "cz-hhPUAAAAJ:YOwf2qJgpHMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "How to model the shapes of molecules? Combining topology and ontology using heterogeneous specifications",
+        "pub_year": "2011",
+        "citation": "Proceedings of the DKR Challenge Workshop, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16236851939585827088",
+      "cites_id": [
+        "16236851939585827088"
+      ]
+    },
+    "cz-hhPUAAAAJ:fFSKOagxvKUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Electronic cigarettes and subsequent use of cigarettes in young people: An evidence and gap map",
+        "pub_year": "2024",
+        "citation": "Addiction 119 (10), 1698-1708, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:fFSKOagxvKUC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7507935598147370939",
+      "cites_id": [
+        "7507935598147370939"
+      ]
+    },
+    "cz-hhPUAAAAJ:mlAyqtXpCwEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Towards an ontology of mental health: Protocol for developing an ontology to structure and integrate evidence regarding anxiety, depression and psychosis",
+        "pub_year": "2024",
+        "citation": "Wellcome Open Research 9 (40), 40, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:mlAyqtXpCwEC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17842653500949790662,15581428671288395098",
+      "cites_id": [
+        "17842653500949790662",
+        "15581428671288395098"
+      ]
+    },
+    "cz-hhPUAAAAJ:eMMeJKvmdy0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Representing Literary Characters and their Attributes in an Ontology",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:eMMeJKvmdy0C",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=525358915092252460",
+      "cites_id": [
+        "525358915092252460"
+      ]
+    },
+    "cz-hhPUAAAAJ:YFjsv_pBGBYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OntoQuery: easy-to-use web-based OWL querying",
+        "pub_year": "2013",
+        "citation": "Bioinformatics 29 (22), 2955-2957, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:YFjsv_pBGBYC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13190569864189278568",
+      "cites_id": [
+        "13190569864189278568"
+      ]
+    },
+    "cz-hhPUAAAAJ:dhFuZR0502QC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Annotating affective neuroscience data with the emotion ontology",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:dhFuZR0502QC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11109369348018952124",
+      "cites_id": [
+        "11109369348018952124"
+      ]
+    },
+    "cz-hhPUAAAAJ:Aul-kAQHnToC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of a General Large Language Model-Based Classification System to Retrieve Information about Oncological Trials",
+        "pub_year": "2025",
+        "citation": "Oncology 104 (4), 410-420, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:Aul-kAQHnToC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9445045944833308136",
+      "cites_id": [
+        "9445045944833308136"
+      ]
+    },
+    "cz-hhPUAAAAJ:zYLM7Y9cAGgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hyperontology for the Biomedical Ontologist: A sketch and some examples",
+        "pub_year": "2011",
+        "citation": "… on Working with…, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15523525408419375929",
+      "cites_id": [
+        "15523525408419375929"
+      ]
+    },
+    "cz-hhPUAAAAJ:nVrZBo8bIpAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Human Behaviour-Change Project Phase 2: Advancing behavioural and social sciences through ontology tools",
+        "pub_year": "2024",
+        "citation": "Wellcome Open Research 9, 730, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:nVrZBo8bIpAC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10104958980841600818,8166404537841768369",
+      "cites_id": [
+        "10104958980841600818",
+        "8166404537841768369"
+      ]
+    },
+    "cz-hhPUAAAAJ:sJsF-0ZLhtgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Implementing a resource-light and low-code large language model system for information extraction from mammography reports: A pilot study",
+        "pub_year": "2025",
+        "citation": "Journal of Imaging Informatics in Medicine, 1-15, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:sJsF-0ZLhtgC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4030848811358760974,3208384860537934722,5193473565887330123",
+      "cites_id": [
+        "4030848811358760974",
+        "3208384860537934722",
+        "5193473565887330123"
+      ]
+    },
+    "cz-hhPUAAAAJ:HIFyuExEbWQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proteomic profiling for biomarker discovery in heparin-induced thrombocytopenia",
+        "pub_year": "2024",
+        "citation": "Blood advances 8 (11), 2825-2834, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:HIFyuExEbWQC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10340710871545966179",
+      "cites_id": [
+        "10340710871545966179"
+      ]
+    },
+    "cz-hhPUAAAAJ:4TOpqqG69KYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "What's in an 'is about' link? Chemical diagrams and the IAO",
+        "pub_year": "2012",
+        "citation": "Proceedings of ICBO 2011, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:4TOpqqG69KYC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14459747947357268032,12760886624944006598",
+      "cites_id": [
+        "14459747947357268032",
+        "12760886624944006598"
+      ]
+    },
+    "cz-hhPUAAAAJ:prdVHNxh-e8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Performance evaluation of large language models in multilingual medical multiple-choice questions: mixed methods study",
+        "pub_year": "2026",
+        "citation": "JMIR Medical Education 12 (1), e81399, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:prdVHNxh-e8C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8243930654504470849",
+      "cites_id": [
+        "8243930654504470849"
+      ]
+    },
+    "cz-hhPUAAAAJ:HtEfBTGE9r8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Neuro-symbolic semantic learning for chemistry",
+        "pub_year": "2023",
+        "citation": "Compendium of neurosymbolic artificial intelligence, 460-484, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:HtEfBTGE9r8C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12283862949893238464",
+      "cites_id": [
+        "12283862949893238464"
+      ]
+    },
+    "cz-hhPUAAAAJ:PELIpwtuRlgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The case for development of an E-cigarette Ontology (E-CigO) to improve quality, efficiency and clarity in the conduct and interpretation of research",
+        "pub_year": "2020",
+        "citation": "Qeios. doi 10, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:PELIpwtuRlgC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=958890257168495670",
+      "cites_id": [
+        "958890257168495670"
+      ]
+    },
+    "cz-hhPUAAAAJ:LjlpjdlvIbIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mental Health Ontologies: How We Talk about Mental Health, and Why it Matters in the Digital Age",
+        "pub_year": "2020",
+        "citation": "University of Exeter Press, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:LjlpjdlvIbIC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7182211022300993560",
+      "cites_id": [
+        "7182211022300993560"
+      ]
+    },
+    "cz-hhPUAAAAJ:kRWSkSYxWN8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Developing General Models and Theories of Addiction",
+        "pub_year": "2018",
+        "citation": "The Routledge Handbook of Philosophy and Science of Addiction, 143, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:kRWSkSYxWN8C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16665968778908847458",
+      "cites_id": [
+        "16665968778908847458"
+      ]
+    },
+    "cz-hhPUAAAAJ:hqOjcs7Dif8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical ontologies: what are they, what are they for and what are the challenges",
+        "pub_year": "2011",
+        "citation": "Journal of Cheminformatics 3 (Suppl 1), O4, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14892381550218821794",
+      "cites_id": [
+        "14892381550218821794"
+      ]
+    },
+    "cz-hhPUAAAAJ:N5tVd3kTz84C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mapping the Patient’s Experience: An Applied Ontological Framework for Phenomenological Psychopathology",
+        "pub_year": "2020",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:N5tVd3kTz84C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2128240481894832335",
+      "cites_id": [
+        "2128240481894832335"
+      ]
+    },
+    "cz-hhPUAAAAJ:PaBasH6fAo0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comparative evaluation of a medical large language model in answering real-world radiation oncology questions: multicenter observational study",
+        "pub_year": "2025",
+        "citation": "Journal of Medical Internet Research 27, e69752, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:PaBasH6fAo0C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1920552901193957314",
+      "cites_id": [
+        "1920552901193957314"
+      ]
+    },
+    "cz-hhPUAAAAJ:yqoGN6RLRZoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluating text-to-image generated photorealistic images of human anatomy",
+        "pub_year": "2024",
+        "citation": "Cureus 16 (11), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:yqoGN6RLRZoC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17175365291386979807",
+      "cites_id": [
+        "17175365291386979807"
+      ]
+    },
+    "cz-hhPUAAAAJ:EYYDruWGBe4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Non-monotonic fibril surface occlusion by GFP tags from coarse-grained molecular simulations",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:EYYDruWGBe4C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8946129187116805368",
+      "cites_id": [
+        "8946129187116805368"
+      ]
+    },
+    "cz-hhPUAAAAJ:8k81kl-MbHgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Parts and wholes, shapes and holes in living beings",
+        "pub_year": "2011",
+        "citation": "Proceedings of the first SHAPES workshop, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:8k81kl-MbHgC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9040750294857162824",
+      "cites_id": [
+        "9040750294857162824"
+      ]
+    },
+    "cz-hhPUAAAAJ:UeHWp8X0CEIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "What are chemical structures and their relations?",
+        "pub_year": "2010",
+        "citation": "Formal Ontology in Information Systems: Proceedings of the Sixth …, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2914025305152374890",
+      "cites_id": [
+        "2914025305152374890"
+      ]
+    },
+    "cz-hhPUAAAAJ:8d8msizDQcsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ontologies of behaviour: current perspectives and future potential in health psychology",
+        "pub_year": "2023",
+        "citation": "European Health Psychologist 23 (2), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:8d8msizDQcsC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11960636454407431666",
+      "cites_id": [
+        "11960636454407431666"
+      ]
+    },
+    "cz-hhPUAAAAJ:foquWX3nUaYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ESC-rules: Explainable, semantically constrained rule sets",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2208.12523, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:foquWX3nUaYC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12936826140570255819",
+      "cites_id": [
+        "12936826140570255819"
+      ]
+    },
+    "cz-hhPUAAAAJ:LgRImbQfgY4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of an Intervention Population Ontology for specifying the characteristics of intervention participants",
+        "pub_year": "2025",
+        "citation": "Wellcome Open Research 10, 122, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:LgRImbQfgY4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1890523974976886793",
+      "cites_id": [
+        "1890523974976886793"
+      ]
+    },
+    "cz-hhPUAAAAJ:CB2v5VPnA5kC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Specifying the schedule of delivery of interventions within the behaviour change intervention ontology",
+        "pub_year": "2024",
+        "citation": "Wellcome Open Research 9 (721), 721, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:CB2v5VPnA5kC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1182000755815394607,18001283244312006754",
+      "cites_id": [
+        "1182000755815394607",
+        "18001283244312006754"
+      ]
+    },
+    "cz-hhPUAAAAJ:2VqYfGB8ITEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Achieving consensus, coherence, clarity and consistency when talking about addiction",
+        "pub_year": "2024",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:2VqYfGB8ITEC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2721700833302691082",
+      "cites_id": [
+        "2721700833302691082"
+      ]
+    },
+    "cz-hhPUAAAAJ:U_HPUtbDl20C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Experience of Health Care Professionals Using Digital Tools in the Hospital: Qualitative Systematic Review. JMIR Human Factors, 10, e50357",
+        "pub_year": "2023",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:U_HPUtbDl20C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6930867767586216487",
+      "cites_id": [
+        "6930867767586216487"
+      ]
+    },
+    "cz-hhPUAAAAJ:YohjEiUPhakC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ontology pre-training for poison prediction",
+        "pub_year": "2023",
+        "citation": "https://doi.org/10.48550/arXiv.2301.08577, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:YohjEiUPhakC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=223432978634033737",
+      "cites_id": [
+        "223432978634033737"
+      ]
+    },
+    "cz-hhPUAAAAJ:KUbvn5osdkgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "How an Addiction Ontology can Unify Competing Conceptualizations of Addiction",
+        "pub_year": "2022",
+        "citation": "Evaluating the Brain Disease Model of Addiction, 484-496, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:KUbvn5osdkgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14484852917131600944",
+      "cites_id": [
+        "14484852917131600944"
+      ]
+    },
+    "cz-hhPUAAAAJ:zCSUwVk65WsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "OntoSpreadEd: Developing Ontologies with a Dedicated Online Template Spreadsheet Editor",
+        "pub_year": "2026",
+        "citation": "Wellcome Open Research 10, 360, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:zCSUwVk65WsC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5477500129482606013",
+      "cites_id": [
+        "5477500129482606013"
+      ]
+    },
+    "cz-hhPUAAAAJ:AHdEip9mkN0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Structure-based metabolite function prediction using graph neural networks",
+        "pub_year": "2025",
+        "citation": "Bioinformatics Advances, vbaf174, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:AHdEip9mkN0C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7625262815665756934",
+      "cites_id": [
+        "7625262815665756934"
+      ]
+    },
+    "cz-hhPUAAAAJ:_OXeSy2IsFwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Practical recommendations for navigating digital tools in hospitals: qualitative interview study",
+        "pub_year": "2024",
+        "citation": "JMIR Medical Education 10 (1), e60031, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:_OXeSy2IsFwC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2323508125617543002",
+      "cites_id": [
+        "2323508125617543002"
+      ]
+    },
+    "cz-hhPUAAAAJ:LI9QrySNdTsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Achieving inclusivity by design: social and contextual information in medical knowledge",
+        "pub_year": "2022",
+        "citation": "Yearbook of Medical Informatics 31 (01), 228-235, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:LI9QrySNdTsC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10655885017666313026",
+      "cites_id": [
+        "10655885017666313026"
+      ]
+    },
+    "cz-hhPUAAAAJ:mKu_rENv82IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Nuclear and cytoplasmic huntingtin inclusions exhibit distinct biochemical composition, interactome and ultrastructural properties. Nat Commun. 2021; 12 (1): 6579",
+        "pub_year": "2021",
+        "citation": "DOI: https://doi. org/10.1038/s41467-021-26684-z. PMID: https://www. ncbi …, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:mKu_rENv82IC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2386057245209344049",
+      "cites_id": [
+        "2386057245209344049"
+      ]
+    },
+    "cz-hhPUAAAAJ:p__nRnzSRKYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FOWL–An OWL to FOL Translator",
+        "pub_year": "2021",
+        "citation": "FOIS 2021, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:p__nRnzSRKYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17935191260355081564",
+      "cites_id": [
+        "17935191260355081564"
+      ]
+    },
+    "cz-hhPUAAAAJ:1qzjygNMrQYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The literary theme ontology for media annotation and information retrieval",
+        "pub_year": "2019",
+        "citation": "arXiv preprint arXiv:1905.00522, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:1qzjygNMrQYC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10597093392168677286",
+      "cites_id": [
+        "10597093392168677286"
+      ]
+    },
+    "cz-hhPUAAAAJ:u_35RYKgDlwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Application of domain ontologies to natural language processing: a case study for drug-drug interactions",
+        "pub_year": "2015",
+        "citation": "International journal of information retrieval research (IJIRR) 5 (3), 19-38, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:u_35RYKgDlwC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8560097714739019008",
+      "cites_id": [
+        "8560097714739019008"
+      ]
+    },
+    "cz-hhPUAAAAJ:ZeXyd9-uunAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wanting what we don't want to want: Representing Addiction in Interoperable Bio-Ontologies",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4532928487470493289",
+      "cites_id": [
+        "4532928487470493289"
+      ]
+    },
+    "cz-hhPUAAAAJ:GFxP56DSvIMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cognitive bias modification for social anxiety: protocol for a living systematic review of human studies and meta-analysis",
+        "pub_year": "2025",
+        "citation": "Wellcome Open Research 9, 657, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:GFxP56DSvIMC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5191521016994295160",
+      "cites_id": [
+        "5191521016994295160"
+      ]
+    },
+    "cz-hhPUAAAAJ:ILKRHgRFtOwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Integrative paradigms for knowledge discovery in mental health: Overcoming the fragmentation of knowledge inherent in disparate theoretical paradigms",
+        "pub_year": "2021",
+        "citation": "Mental health informatics: enabling a learning mental healthcare system, 295-316, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:ILKRHgRFtOwC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=321298782722778001",
+      "cites_id": [
+        "321298782722778001"
+      ]
+    },
+    "cz-hhPUAAAAJ:uc_IGeMz5qoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Scientific Ontologies, Digital Curation and the Learning Knowledge Ecosystem",
+        "pub_year": "2021",
+        "citation": "Qurator, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:uc_IGeMz5qoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16971000513819983885",
+      "cites_id": [
+        "16971000513819983885"
+      ]
+    },
+    "cz-hhPUAAAAJ:tkaPQYYpVKoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Using Genome-Scale Metabolic Networks for Analysis, Visualization, and Integration of Targeted Metabolomics Data",
+        "pub_year": "2020",
+        "citation": "Computational Methods and Data Analysis for Metabolomics, 361-386, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:tkaPQYYpVKoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16018974845326335761",
+      "cites_id": [
+        "16018974845326335761"
+      ]
+    },
+    "cz-hhPUAAAAJ:IWHjjKOFINEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modular Extensions to the ChEBI Ontology.",
+        "pub_year": "2012",
+        "citation": "ICBO, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:IWHjjKOFINEC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14683439082887104945",
+      "cites_id": [
+        "14683439082887104945"
+      ]
+    },
+    "cz-hhPUAAAAJ:FiytvqdAVhgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tracking the evolving role of artificial intelligence in implementation science: protocol for a living scoping review of applications, evaluation approaches and outcomes",
+        "pub_year": "2026",
+        "citation": "F1000Research 14, 1135, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:FiytvqdAVhgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=113986078963839435",
+      "cites_id": [
+        "113986078963839435"
+      ]
+    },
+    "cz-hhPUAAAAJ:kuK5TVdYjLIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ontologies for the Behavioural and Social Sciences: Opportunities and Challenges",
+        "pub_year": "2022",
+        "citation": "CEUR Workshop Proceedings, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:kuK5TVdYjLIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4229338422580201912",
+      "cites_id": [
+        "4229338422580201912"
+      ]
+    },
+    "cz-hhPUAAAAJ:XiVPGOgt02cC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Theory and Ontology in Building Cumulative Behavioural Science",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:XiVPGOgt02cC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12712015626980075764",
+      "cites_id": [
+        "12712015626980075764"
+      ]
+    },
+    "cz-hhPUAAAAJ:artPoR2Yc-kC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expressing time-dependent relations through temporal qualifications",
+        "pub_year": "2016",
+        "citation": "pdf] Studylib. Available at: https://studylib. net/doc/6849748/1-basic …, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:artPoR2Yc-kC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=633396948778078305",
+      "cites_id": [
+        "633396948778078305"
+      ]
+    },
+    "cz-hhPUAAAAJ:hFOr9nPyWt4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Process attributes in bio-ontologies",
+        "pub_year": "2012",
+        "citation": "BMC bioinformatics 13 (1), 217, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:hFOr9nPyWt4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15794113621437948947",
+      "cites_id": [
+        "15794113621437948947"
+      ]
+    },
+    "cz-hhPUAAAAJ:isC4tDSrTZIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Processes and properties",
+        "pub_year": "2011",
+        "citation": "Bio-Ontologies 2011, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:isC4tDSrTZIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12404529220578685561",
+      "cites_id": [
+        "12404529220578685561"
+      ]
+    },
+    "cz-hhPUAAAAJ:ULOm3_A8WrAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Biobank metaportal to enhance collaborative research: sail. simbioms. org",
+        "pub_year": "2011",
+        "citation": "Proceedings of ICTA, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15508298248856910599",
+      "cites_id": [
+        "15508298248856910599"
+      ]
+    },
+    "cz-hhPUAAAAJ:ufrVoPGSRksC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A T-Box Generator for testing scalability of OWL mereotopological patterns",
+        "pub_year": "2011",
+        "citation": "OWLED 2011, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:ufrVoPGSRksC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1240802212003087016",
+      "cites_id": [
+        "1240802212003087016"
+      ]
+    },
+    "cz-hhPUAAAAJ:Tyk-4Ss8FVUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Towards automatic classification within the ChEBI ontology",
+        "pub_year": "2009",
+        "citation": "Nature Precedings, 1-1, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2802913013791403792,667505939716275827",
+      "cites_id": [
+        "2802913013791403792",
+        "667505939716275827"
+      ]
+    },
+    "cz-hhPUAAAAJ:kVjdVfd2voEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Large language models reveal menstruation experiences and needs on social media",
+        "pub_year": "2025",
+        "citation": "Medinfo 2025-Healthcare Smart x Medicine Deep: Proceedings of the 20th World …, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:kVjdVfd2voEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15127069985524486236",
+      "cites_id": [
+        "15127069985524486236"
+      ]
+    },
+    "cz-hhPUAAAAJ:43bX7VzcjpAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development of an ontology of engagement with behaviour change interventions",
+        "pub_year": "2025",
+        "citation": "Wellcome Open Research 10, 409, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:43bX7VzcjpAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2660971835476880432",
+      "cites_id": [
+        "2660971835476880432"
+      ]
+    },
+    "cz-hhPUAAAAJ:tH6gc1N1XXoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A CDE-based data structure for radiotherapeutic decision-making in breast cancer",
+        "pub_year": "2025",
+        "citation": "BMC Medical Informatics and Decision Making 25 (1), 220, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:tH6gc1N1XXoC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7304641667465471485",
+      "cites_id": [
+        "7304641667465471485"
+      ]
+    },
+    "cz-hhPUAAAAJ:lgwcVrK6X84C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Automated gene identification in oncology literature: a comparative evaluation of natural language processing approaches",
+        "pub_year": "2025",
+        "citation": "Global Healthcare Transformation in the Era of Artificial Intelligence and …, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:lgwcVrK6X84C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18016665215698272118",
+      "cites_id": [
+        "18016665215698272118"
+      ]
+    },
+    "cz-hhPUAAAAJ:F9fV5C73w3QC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Factors Guiding Clinical Decision‐Making in Genitourinary Oncology",
+        "pub_year": "2024",
+        "citation": "Cancer Medicine 13 (20), e70304, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:F9fV5C73w3QC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10795649973512252252",
+      "cites_id": [
+        "10795649973512252252"
+      ]
+    },
+    "cz-hhPUAAAAJ:0izLItjtcgwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Human Factors Influencing the Experience of Healthcare Professionals Using Digital Tools",
+        "pub_year": "2023",
+        "citation": "IOS Press, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:0izLItjtcgwC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2983975728660010727",
+      "cites_id": [
+        "2983975728660010727"
+      ]
+    },
+    "cz-hhPUAAAAJ:hMod-77fHWUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Shape Perception in Chemistry.",
+        "pub_year": "2013",
+        "citation": "SHAPES, 83-94, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:hMod-77fHWUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12154158936313420710",
+      "cites_id": [
+        "12154158936313420710"
+      ]
+    },
+    "cz-hhPUAAAAJ:7PzlFSSx8tAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Waves and fields in bio-ontologies.",
+        "pub_year": "2012",
+        "citation": "ICBO, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:7PzlFSSx8tAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1190472552706038867",
+      "cites_id": [
+        "1190472552706038867"
+      ]
+    },
+    "cz-hhPUAAAAJ:Y0pCki6q_DkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modularization Requirements in Bio-Ontologies: A Case Study of ChEBI.",
+        "pub_year": "2011",
+        "citation": "WoMO, 63-70, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5183293851827221630",
+      "cites_id": [
+        "5183293851827221630"
+      ]
+    },
+    "cz-hhPUAAAAJ:eQOLeE2rZwMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chebi–an open-access chemistry resource for the life sciences:* facilities for on-line submission and curation",
+        "pub_year": "2010",
+        "citation": "Nature Precedings, 1-1, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11314328773196075281",
+      "cites_id": [
+        "11314328773196075281"
+      ]
+    },
+    "cz-hhPUAAAAJ:IjCSPb-OGe4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Substance concentrations as conditions for the realization of dispositions",
+        "pub_year": "2010",
+        "citation": "Semantic Applications in Life Sciences: Proceedings of the 4th International …, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10982402294720036318",
+      "cites_id": [
+        "10982402294720036318"
+      ]
+    },
+    "cz-hhPUAAAAJ:SjuI4pbJlxcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AI Methods for Implementation Science (AIM-IS): developing a framework, toolkit, and reporting standard for the responsible use of AI in implementation practice and research",
+        "pub_year": "2026",
+        "citation": "Implementation Science 21 (1), 37, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:SjuI4pbJlxcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3200568344425767316",
+      "cites_id": [
+        "3200568344425767316"
+      ]
+    },
+    "cz-hhPUAAAAJ:1taIhTC69MYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combining implementation and data sciences to accelerate evidence integration into healthcare–ImpleMATE",
+        "pub_year": "2025",
+        "citation": "F1000Research 14, 1184, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:1taIhTC69MYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8596724066405685126",
+      "cites_id": [
+        "8596724066405685126"
+      ]
+    },
+    "cz-hhPUAAAAJ:QD3KBmkZPeQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical classification program synthesis using generative artificial intelligence",
+        "pub_year": "2025",
+        "citation": "Journal of Cheminformatics 17 (1), 152, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:QD3KBmkZPeQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8637330682793058580",
+      "cites_id": [
+        "8637330682793058580"
+      ]
+    },
+    "cz-hhPUAAAAJ:PVgj2kMGcgYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Box embeddings for extending ontologies: a data-driven and interpretable approach",
+        "pub_year": "2025",
+        "citation": "Journal of Cheminformatics 17 (1), 138, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:PVgj2kMGcgYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13661674623770010291",
+      "cites_id": [
+        "13661674623770010291"
+      ]
+    },
+    "cz-hhPUAAAAJ:v1_lew4L6wgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Large language models for detection of genetic variants in biomedical literature",
+        "pub_year": "2025",
+        "citation": "Medinfo 2025-Healthcare Smart x Medicine Deep: Proceedings of the 20th World …, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:v1_lew4L6wgC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14058079376850315418",
+      "cites_id": [
+        "14058079376850315418"
+      ]
+    },
+    "cz-hhPUAAAAJ:jgBuDB5drN8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In reply to Sengul I and Sengul D",
+        "pub_year": "2025",
+        "citation": "Advances in Radiation Oncology 10 (7), 101800, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:jgBuDB5drN8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4445766835080346945,10226177809894537500",
+      "cites_id": [
+        "4445766835080346945",
+        "10226177809894537500"
+      ]
+    },
+    "cz-hhPUAAAAJ:CaZNVDsoPx4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Bayesian Network Meta-analysis of Systemic Treatments for Metastatic Castration-Resistant Prostate Cancer in First-and Subsequent Lines",
+        "pub_year": "2025",
+        "citation": "Targeted Oncology, 1-27, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:CaZNVDsoPx4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=234887603147626814",
+      "cites_id": [
+        "234887603147626814"
+      ]
+    },
+    "cz-hhPUAAAAJ:IaI1MmNe2tcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chebifier 2: An Ensemble for Chemistry.",
+        "pub_year": "2025",
+        "citation": "SEMANTiCS (Posters, Demos, Workshops & Tutorials), 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:IaI1MmNe2tcC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=34211774126064074",
+      "cites_id": [
+        "34211774126064074"
+      ]
+    },
+    "cz-hhPUAAAAJ:Bg7qf7VwUHIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MBD-Check: An Interpretable Machine Learning Decision Support Tool for the Preoperative Prediction of Mild Bleeding Disorders—Model Development, External Validation, and User …",
+        "pub_year": "2025",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:Bg7qf7VwUHIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10262982954134253266",
+      "cites_id": [
+        "10262982954134253266"
+      ]
+    },
+    "cz-hhPUAAAAJ:5MTHONV0fEkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Horned-OWL: Flying Further and Faster with Ontologies",
+        "pub_year": "2024",
+        "citation": "Transactions on Graph Data and Knowledge 2 (2), 9: 1-9: 14, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:5MTHONV0fEkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17422406476064559449,16804572823241324225",
+      "cites_id": [
+        "17422406476064559449",
+        "16804572823241324225"
+      ]
+    },
+    "cz-hhPUAAAAJ:bKqednn6t2AC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "What is a machine? Exploring the meaning of ‘artificial’ in ‘artificial intelligence’",
+        "pub_year": "2024",
+        "citation": "Cosmos + Taxis 12 (5+6), 37-41, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:bKqednn6t2AC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14057410250638317597",
+      "cites_id": [
+        "14057410250638317597"
+      ]
+    },
+    "cz-hhPUAAAAJ:5qfkUJPXOUwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Applied ontology for phenomenological psychopathology? A cautionary tale–Authors' reply",
+        "pub_year": "2022",
+        "citation": "The Lancet Psychiatry 9 (10), 766, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:5qfkUJPXOUwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18129857534263900737,10897989479219802510",
+      "cites_id": [
+        "18129857534263900737",
+        "10897989479219802510"
+      ]
+    },
+    "cz-hhPUAAAAJ:D_sINldO8mEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Advancing methods to develop behaviour change interventions: a review of relevant ontologies",
+        "pub_year": "2017",
+        "citation": "PROSPERO International prospective register of systematic reviews, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:D_sINldO8mEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=612680369711651709",
+      "cites_id": [
+        "612680369711651709"
+      ]
+    },
+    "cz-hhPUAAAAJ:4xDN1ZYqzskC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "International conference on biomedical ontology",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:4xDN1ZYqzskC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=692988149662461780",
+      "cites_id": [
+        "692988149662461780"
+      ]
+    },
+    "cz-hhPUAAAAJ:NhqRSupF_l8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Towards an Ontology of Mental Functioning (ICBO Workshop), Proceeedings of the Third International Conference on Biomedical Ontology",
+        "pub_year": "2012",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:NhqRSupF_l8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16271400505768290232,7524088792686756776",
+      "cites_id": [
+        "16271400505768290232",
+        "7524088792686756776"
+      ]
+    },
+    "cz-hhPUAAAAJ:kNdYIx-mwKoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recent Developments in the ChEBI Ontology.",
+        "pub_year": "2011",
+        "citation": "ICBO, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:kNdYIx-mwKoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2292346317754087110",
+      "cites_id": [
+        "2292346317754087110"
+      ]
+    },
+    "cz-hhPUAAAAJ:7Hz3ACDFbsoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deep learning aging marker from retinal images unveils sex-specific clinical and genetic signatures",
+        "pub_year": "2026",
+        "citation": "Nature Communications, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:7Hz3ACDFbsoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13973544360935468890",
+      "cites_id": [
+        "13973544360935468890"
+      ]
+    },
+    "cz-hhPUAAAAJ:owLR8QvbtFgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The EU AI Act: implications and compliance guidance for healthcare facilities",
+        "pub_year": "2026",
+        "citation": "Frontiers in Digital Health 8, 1808373, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:owLR8QvbtFgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12979982625670979893",
+      "cites_id": [
+        "12979982625670979893"
+      ]
+    },
+    "cz-hhPUAAAAJ:KaMxkj08jr0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Development, validation, and user-centric evaluation of an interpretable machine learning decision support tool for the preoperative prediction of mild bleeding disorders (MBD …",
+        "pub_year": "2026",
+        "citation": "The Lancet Digital Health, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:KaMxkj08jr0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7128371451104300562",
+      "cites_id": [
+        "7128371451104300562"
+      ]
+    },
+    "cz-hhPUAAAAJ:6bLC7aUMtPcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Automatically detecting trends and open questions from mental health publications: a Wellcome-funded GALENOS project",
+        "pub_year": "2026",
+        "citation": "BMJ Mental Health 29 (1), e302379, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:6bLC7aUMtPcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11049691873468673977",
+      "cites_id": [
+        "11049691873468673977"
+      ]
+    },
+    "cz-hhPUAAAAJ:uVUOdF_882EC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combining implementation and data sciences to advance the speed of evidence integration into healthcare",
+        "pub_year": "2026",
+        "citation": "IMPLEMENTATION SCIENCE 21 (SUPPL 1), 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:uVUOdF_882EC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11601391769736408151",
+      "cites_id": [
+        "11601391769736408151"
+      ]
+    },
+    "cz-hhPUAAAAJ:wKETBy42zhYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Advancing Behavioural and Social Sciences through Ontologies: Protocol for the APRICOT Project",
+        "pub_year": "2025",
+        "citation": "Wellcome Open Research 10, 691, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:wKETBy42zhYC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5226370985785896390",
+      "cites_id": [
+        "5226370985785896390"
+      ]
+    },
+    "cz-hhPUAAAAJ:MpfHP-DdYjUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A method for evaluating the interoperability of ontology classes in the behavioural and social sciences",
+        "pub_year": "2025",
+        "citation": "Wellcome Open Research 10, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:MpfHP-DdYjUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3012532987964898775",
+      "cites_id": [
+        "3012532987964898775"
+      ]
+    },
+    "cz-hhPUAAAAJ:BzfGm06jWhQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Consensus Finding Among LLMs to Retrieve Information About Oncological Trials",
+        "pub_year": "2025",
+        "citation": "Medinfo 2025-Healthcare Smart x Medicine Deep: Proceedings of the 20th World …, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:BzfGm06jWhQC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3004782877565732197",
+      "cites_id": [
+        "3004782877565732197"
+      ]
+    },
+    "cz-hhPUAAAAJ:U4n9YNQMCAIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancing interpretability of ocular disease diagnosis: a zero-shot study of multimodal large language models",
+        "pub_year": "2025",
+        "citation": "Medinfo 2025-Healthcare Smart x Medicine Deep: Proceedings of the 20th World …, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:U4n9YNQMCAIC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5020754347248385120",
+      "cites_id": [
+        "5020754347248385120"
+      ]
+    },
+    "cz-hhPUAAAAJ:HtS1dXgVpQUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Our Own Image: What the Quest for Artificial General Intelligence Can Teach Us About Being Human",
+        "pub_year": "2024",
+        "citation": "Cosmos + Taxis 12 (5+6), 1-4, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:HtS1dXgVpQUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6428158112734021827",
+      "cites_id": [
+        "6428158112734021827"
+      ]
+    },
+    "cz-hhPUAAAAJ:hMsQuOkrut0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Informatics Technologies for the Acquisition of Psychological, Behavioral, Interpersonal, Social and Environmental Data",
+        "pub_year": "2021",
+        "citation": "Mental health informatics: enabling a learning mental healthcare system, 217-234, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:hMsQuOkrut0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3275624161801032856",
+      "cites_id": [
+        "3275624161801032856"
+      ]
+    },
+    "cz-hhPUAAAAJ:4MWp96NkSFoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A new tool for specifying behavioural interventions: the behaviour change intervention ontology",
+        "pub_year": "2021",
+        "citation": "International Journal of Behavioral Medicine 28 (SUPPL 1), S33-S33, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:4MWp96NkSFoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10027965083621885430",
+      "cites_id": [
+        "10027965083621885430"
+      ]
+    },
+    "cz-hhPUAAAAJ:bnK-pcrLprsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Metabolic influences on ageing in Caenorhabditis elegans: A time series multi-omics and metabolic modelling study",
+        "pub_year": "2019",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:bnK-pcrLprsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5126081719564881464",
+      "cites_id": [
+        "5126081719564881464"
+      ]
+    },
+    "cz-hhPUAAAAJ:eJXPG6dFmWUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flow with the flux: systems biology tools predict metabolic drivers of aging in C. elegans",
+        "pub_year": "2018",
+        "citation": "Current Opinion in Systems Biology, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:eJXPG6dFmWUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2398759442664059304",
+      "cites_id": [
+        "2398759442664059304"
+      ]
+    },
+    "cz-hhPUAAAAJ:uDGL6kOW6j0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ontologies in Chemoinformatics",
+        "pub_year": "2017",
+        "citation": "Handbook of Computational Chemistry, 2163-2181, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:uDGL6kOW6j0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12030549532871875755",
+      "cites_id": [
+        "12030549532871875755"
+      ]
+    },
+    "cz-hhPUAAAAJ:b0M2c_1WBrUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Digital Scholarship and Open Science in Psychology and the Behavioral Sciences (Dagstuhl Perpectives Workshop 15302).",
+        "pub_year": "2015",
+        "citation": "Dagstuhl Reports 5 (7), 42-68, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:b0M2c_1WBrUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18259032138546221202,13569853501021047738,10705624898923658151",
+      "cites_id": [
+        "18259032138546221202",
+        "13569853501021047738",
+        "10705624898923658151"
+      ]
+    },
+    "cz-hhPUAAAAJ:Tiz5es2fbqcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "eNanoMapper: Opportunities and challenges in using ontologies to enable data integration for nanomaterial risk assessment",
+        "pub_year": "2014",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:Tiz5es2fbqcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15895400437376873124",
+      "cites_id": [
+        "15895400437376873124"
+      ]
+    },
+    "cz-hhPUAAAAJ:mB3voiENLucC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Accessing and using chemical property databases",
+        "pub_year": "2012",
+        "citation": "Computational Toxicology: Volume I, 193-219, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:mB3voiENLucC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18350935963080578743",
+      "cites_id": [
+        "18350935963080578743"
+      ]
+    },
+    "cz-hhPUAAAAJ:9ZlFYXVOiuMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Collective bio-molecular processes: The hidden ontology of systems biology",
+        "pub_year": "2012",
+        "citation": "UNDERSTANDING AND MODELLING COLLECTIVE PHENOMENA, 3, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8599895840130696971",
+      "cites_id": [
+        "8599895840130696971"
+      ]
+    },
+    "cz-hhPUAAAAJ:Se3iqnhoufwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Modelling Threshold Phenomena in OWL: Metabolite Concentrations as Evidence For Disorders.",
+        "pub_year": "2011",
+        "citation": "OWLED, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:Se3iqnhoufwC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11841852921172540196",
+      "cites_id": [
+        "11841852921172540196"
+      ]
+    },
+    "cz-hhPUAAAAJ:WF5omc3nYNoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Semantic access to chemistry data with the ChEBI ontology and web services.",
+        "pub_year": "2009",
+        "citation": "SWAT4LS, 2009"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:WF5omc3nYNoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9307693478817131811",
+      "cites_id": [
+        "9307693478817131811"
+      ]
+    },
+    "cz-hhPUAAAAJ:pAkWuXOU-OoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Building an AI-Ready Evidence Base for Behavior Change",
+        "pub_year": "2026",
+        "citation": "NEJM AI, AIp2600248, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:pAkWuXOU-OoC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:O0nohqN1r9EC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Artificial intelligence in implementation science and practice: a living scoping review",
+        "pub_year": "2026",
+        "citation": "Implementation Science, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:O0nohqN1r9EC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:-jrNzM816MMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Neurosymbolic AI in Medicine: Challenges and Opportunities",
+        "pub_year": "2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:-jrNzM816MMC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:QyXJ3EUuO1IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluating configurational comparative methods for analysing complex causal relationships in implementation science",
+        "pub_year": "2026",
+        "citation": "OSF, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:QyXJ3EUuO1IC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:HGTzPopzzJcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "\"I'm Right Here With You\": LLMs Using First-Person Language in Therapeutic Interactions",
+        "pub_year": "2026",
+        "citation": "Social Computing and Social Media: 18th International Conference, SCSM 2026 …, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:HGTzPopzzJcC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:MAUkC_7iAq8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Heterogeneous Ensemble Learning for Hierarchical Multi-label Classification",
+        "pub_year": "2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:MAUkC_7iAq8C",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:XUvXOeBm_78C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cognitive bias modification for social anxiety: a living systematic review and network meta-analysis",
+        "pub_year": "2026",
+        "citation": "Wellcome Open Research 11, 154, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:XUvXOeBm_78C",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:rHJHxKgnXwkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The GALENOS Upper-Level Mental Health Ontology: Enabling evidence synthesis by representing the domain of mental health and associated interventions",
+        "pub_year": "2026",
+        "citation": "Wellcome Open Research 11, 221, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:rHJHxKgnXwkC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:1DsIQWDZLl8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Variantscape: Large Language Model-Driven Mining of Biomedical Literature for Clinical Interpretation of Cancer Variants",
+        "pub_year": "2026",
+        "citation": "medRxiv, 2026.08. 02.26359492, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:1DsIQWDZLl8C",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:-7ulzOJl1JYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Making Machine Learning Clinically Useful in Thrombosis and Hemostasis: A Roadmap for Diagnostic Translation",
+        "pub_year": "2026",
+        "citation": "Seminars in thrombosis and hemostasis, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:-7ulzOJl1JYC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:jFemdcug13IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Proceedings of the Joint Ontology Workshops (JOWO)-Episode XI: The Sicilian Summer under the Etna, co-located with the 15th International Conference on Formal Ontology in …",
+        "pub_year": "2026",
+        "citation": "Joint Ontology Workshops 4176, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:jFemdcug13IC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:q-HalDI95KYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The effect of heat exposure on mood disorders and psychosis: Protocol for a living systematic review of human and non-human studies",
+        "pub_year": "2026",
+        "citation": "Wellcome Open Research, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:q-HalDI95KYC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:-mN3Mh-tlDkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prompt-driven large language model for evidence extraction in implementation science: exploring semantic similarity between manual and automated coding across studies",
+        "pub_year": "2026",
+        "citation": "OSF, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:-mN3Mh-tlDkC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:MhiOAD_qIWkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Association between cardiovascular and metabolic factors and cognitive functioning in psychosis: Protocol for a living systematic review of human and non-human animal studies",
+        "pub_year": "2025",
+        "citation": "Wellcome Open Res 10 (558), 558, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:MhiOAD_qIWkC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:j7_hQOaDUrUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ontology pre-training improves machine learning-based predictions for metabolites",
+        "pub_year": "2025",
+        "citation": "bioRxiv, 2025.09. 30.679573, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:j7_hQOaDUrUC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:RoXSNcbkSzsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Comparative Performance Analysis of Regular Expressions and an LLM-Based Approach to Extract the BI-RADS Score from Radiological Reports",
+        "pub_year": "2025",
+        "citation": "medRxiv, 2025.06. 01.25328636, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:RoXSNcbkSzsC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:-95Q15plzcUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Evaluation of Generative AI Use in Behavioural Research: A Cross-sectional Survey",
+        "pub_year": "2025",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:-95Q15plzcUC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:yFnVuubrUp4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "In Reply to Daungsupawong and Wiwanitkit",
+        "pub_year": "2024",
+        "citation": "Advances in radiation oncology 9 (6), 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:yFnVuubrUp4C",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:Ak0FvsSvgGUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Creation of a CDE-based data structure for radiotherapeutic decision-making in breast cancer",
+        "pub_year": "2024",
+        "citation": "World Cancer Congress 2024, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:Ak0FvsSvgGUC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:yMeIxYmEMEAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The Illusory Goal of Automating Ontology Development–with or without Large Language Models",
+        "pub_year": "2024",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:yMeIxYmEMEAC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:4X0JR2_MtJMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preface-JOWO",
+        "pub_year": "2023",
+        "citation": "CEUR WORKSHOP PROCEEDINGS 3637, 1-19, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:4X0JR2_MtJMC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:FAceZFleit8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Applied ontology: Where are we now and where are we going?",
+        "pub_year": "2023",
+        "citation": "Applied Ontology 18 (1), 1-4, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:FAceZFleit8C",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:HbR8gkJAVGIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AI3SD Video: AI and multi-omics discovery science: A case study in understanding ageing at a systems level",
+        "pub_year": "2022",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:HbR8gkJAVGIC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:Ehil0879vHcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AI3SD Video: Automated chemical ontology expansion",
+        "pub_year": "2021",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:Ehil0879vHcC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:ML0RJ9NH7IQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Theory and Techniques in Developing and Evaluating Behavioural Interventions",
+        "pub_year": "2021",
+        "citation": "International Journal of Behavioral Medicine 28 (SUPPL 1), S43-S44, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:ML0RJ9NH7IQC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:Z5m8FVwuT1cC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Specifying intervention delivery and content",
+        "pub_year": "2021",
+        "citation": "International Journal of Behavioral Medicine 28 (SUPPL 1), S33-S33, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:Z5m8FVwuT1cC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:DBa1UEJaJKAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Introduction and evaluation of the Open Energy Ontology (OEO)",
+        "pub_year": "2020",
+        "citation": "EMP-E 2020-Energy Modelling Platform for Europe, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:DBa1UEJaJKAC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:jU7OWUQzBzMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ontologies in Cheminformatics",
+        "pub_year": "2016",
+        "citation": "Handbook of Computational Chemistry, 1-19, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:jU7OWUQzBzMC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:Y5dfb0dijaUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interdyscyplinarne perspektywy rozwoju, integracji i zastosowań ontologii poznawczych (Przełożył Przemysław Nowak)",
+        "pub_year": "2016",
+        "citation": "Avant 7 (3), 2016"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:Y5dfb0dijaUC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:sSrBHYA8nusC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "eNanoMapper: A database and ontology framework for nanomaterials design and safety assessment",
+        "pub_year": "2015",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 250, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:sSrBHYA8nusC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:f2IySw72cVMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ChEBI for systems biology and metabolic modelling.",
+        "pub_year": "2015",
+        "citation": "ICBO, 2015"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:f2IySw72cVMC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:r_AWSJRzSzQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Substance class annotation for long candidate lists in metabolite identification using structural ontologies",
+        "pub_year": "2015",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:r_AWSJRzSzQC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:SeFeTyx0c_EC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pipeline for automated structure-based classification in the ChEBI ontology",
+        "pub_year": "2014",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 247, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:SeFeTyx0c_EC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:RGFaLdJalmkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical Ontologies for Standardization, Knowledge Discovery, and Data Mining",
+        "pub_year": "2013",
+        "citation": "Data Mining in Drug Discovery, 55-74, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:RGFaLdJalmkC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:XiSMed-E-HIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Semantic annotation of PubChem databases",
+        "pub_year": "2013",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:XiSMed-E-HIC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:TFP_iSt0sucC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Expanding natural product chemistry resources at the EBI",
+        "pub_year": "2013",
+        "citation": "Journal of Cheminformatics 5 (Suppl 1), P43, 2013"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:TFP_iSt0sucC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:M3ejUd6NZC8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Structured chemical class definitions and automated matching for chemical ontology evolution",
+        "pub_year": "2012",
+        "citation": "Journal of Cheminformatics 4 (Suppl 1), P5, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:J_g5lzvAfSwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Chemical classification for the Semantic Web",
+        "pub_year": "2012",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 244, 2012"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:J_g5lzvAfSwC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:k_IJM867U9cC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "What’s new and what’s changing in ChEBI in 2011",
+        "pub_year": "2011",
+        "citation": "Bio-Ontologies 2011, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:k_IJM867U9cC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:vRqMK49ujn8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SHAPES 1.0: The Shape Of Things 2011: Proceedings of the First Interdisciplinary Workshop on SHAPES, Karlsruhe, Germany, September 27, 2011",
+        "pub_year": "2011",
+        "citation": "CEUR Workshop Proceedings, 2011"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:vRqMK49ujn8C",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:blknAaTinKkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CHEMINF: Community-developed ontology of chemical information and algorithms",
+        "pub_year": "2010",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 240, 2010"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:blknAaTinKkC",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:yB1At4FlUx8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Representing chemical structures using OWL and description graphs",
+        "pub_year": "2010",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:yB1At4FlUx8C",
+      "num_citations": 0
+    },
+    "cz-hhPUAAAAJ:YsMSGLbcyi4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "The ChEBI Ontology: An Ontology for Chemistry within a Biological Context.",
+        "pub_year": "2008",
+        "citation": "SWAT4LS, 2008"
+      },
+      "filled": false,
+      "author_pub_id": "cz-hhPUAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 0
+    }
+  },
+  "citedby5y": 8731,
+  "hindex": 51,
+  "hindex5y": 44,
+  "i10index": 121,
+  "i10index5y": 105,
+  "cites_per_year": {
+    "2008": 40,
+    "2009": 95,
+    "2010": 116,
+    "2011": 186,
+    "2012": 304,
+    "2013": 366,
+    "2014": 380,
+    "2015": 434,
+    "2016": 544,
+    "2017": 520,
+    "2018": 591,
+    "2019": 810,
+    "2020": 832,
+    "2021": 984,
+    "2022": 1005,
+    "2023": 1299,
+    "2024": 1560,
+    "2025": 2190,
+    "2026": 1665
+  },
+  "updated": "2026-09-06 07:18:25.609429"
+}
