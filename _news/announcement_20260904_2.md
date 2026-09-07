@@ -8,7 +8,7 @@ related_posts: false
 ---
 Janna, Miranda, and Charlotte went to ECCB 2026 in Geneva, Switzerland to learn about the latest research in bioinformatics and computational biology. Miranda and Charlotte also presented their research in form of posters, which led to fruitful discussion with other researchers. Miranda presented *Give your Metabolites Significance*. Charlotte presented *Comparative methods for RNA Secondary Structure Prediction in RNA Viruses*.
 
- <img src="../assets/img/poster_eccb26" alt=Give your Metabolites Significance Comparative methods for RNA Secondary Structure Prediction in RNA Viruses>
+ <img src="../assets/img/poster_eccb26.png" alt="Give your Metabolites Significance Comparative methods for RNA Secondary Structure Prediction in RNA Viruses">
 
 
 Miranda joined the volunteering team to help ensuring a smooth conference.
