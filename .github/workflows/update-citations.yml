@@ -7,6 +7,10 @@ on:
     - cron: "0 0 * * 5" # Friday
   workflow_dispatch:
 
+permissions:
+  contents: write # push the updated _data/citations.yml
+  actions: write # trigger the deploy workflow afterwards
+
 jobs:
   update-citations:
     runs-on: ubuntu-latest
@@ -98,4 +102,10 @@ jobs:
             echo "📤 Committing and pushing changes..."
             git commit -m "Update Google Scholar citations"
             git push
+            # Pushes made with GITHUB_TOKEN don't trigger other workflows,
+            # so start the site rebuild explicitly (workflow_dispatch is allowed).
+            echo "🚀 Triggering site deploy..."
+            gh workflow run deploy.yml --ref "${GITHUB_REF_NAME}"
           )
+        env:
+          GH_TOKEN: ${{ github.token }}
