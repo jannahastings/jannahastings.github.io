@@ -1,3 +1,7 @@
 nbconvert
 pyyaml
 scholarly
+# scholarly breaks with bibtexparser 2.x (removed bibtexparser.bibdatabase)
+bibtexparser~=1.0
+# httpx 0.28 removed the proxies= argument scholarly uses
+httpx<0.28
