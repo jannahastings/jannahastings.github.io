@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Join us for the IDIAP open day on the 12th of September 2026! 
+title: Join us for the IDIAP open day on the 12th of September 2026 and the EPFL Scientastic from the 7th to the 8th of November 2026! 
 date: 2026-09-04 
 inline: false
 related_posts: false
 ---
-Join us for the 35th anniversary of IDIAP! We will celebrate with an open day where we will showcase our research. The HCHAI group will be present with a poster about *AI, Social Media, and Health*.
-View more information [here](https://www.idiap.ch/35/#program).
+Join us for the 35th anniversary of IDIAP and the EPFL Scientastic! We will celebrate with an open day where we will showcase our research. The HCHAI group will be present with a poster about *AI, Social Media, and Health*.
+View more information for the IDIAP open dat [here](https://www.idiap.ch/35/#program) and the EPFL Scientastic [here](https://scientastic.epfl.ch/).
 
 Our poster ([English version](/assets/pdf/ENG_open_day_poster_2026.pdf), [French version](/assets/pdf/FRA_open_day_poster_2026.pdf)) explores two aspects of AI & health: the consequences of AI-generated pictures for our body image and the use of social media and AI to explore physical health issues:
 
