@@ -27,4 +27,5 @@ During our efforts training predictive models to predict complex sets of chemica
 <div class="publications">
   {% bibliography -f papers -q @*[key=hastings_learning_2021]* %}
   {% bibliography -f papers -q @*[key=glauer_chebifier_2024]* %}
+  {% bibliography -f papers -q @*[key=tumescheit_ontology_2026]* %}
 </div>
