@@ -29,6 +29,24 @@ profiles:
       <p>Martigny, Switzerland</p>
 
   - align: left
+    image: christina-pic.png
+    content: about_christina.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Office 306</p>
+      <p>Rue Marconi 19</p>
+      <p>Martigny, Switzerland</p>
+
+  - align: right
+    image: martin-pic.jpg
+    content: about_martin.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Office 306</p>
+      <p>Rue Marconi 19</p>
+      <p>Martigny, Switzerland</p>
+
+  - align: left
     image: miranda-pic.jpg
     content: about_miranda.md
     image_circular: false # crops the image to make it circular
